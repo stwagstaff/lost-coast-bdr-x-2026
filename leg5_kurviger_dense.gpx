@@ -3,20 +3,220 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>LCX5 - Ferndale to Fort Bragg</name><time>2026-05-31T21:06:23Z</time></metadata>
-  <wpt lat="40.577150" lon="-124.263060"><name>Ferndale</name></wpt>
-  <wpt lat="40.340160" lon="-123.875450"></wpt>
-  <wpt lat="40.157580" lon="-123.708910"></wpt>
-  <wpt lat="39.977530" lon="-123.624340"></wpt>
-  <wpt lat="39.777090" lon="-123.543820"></wpt>
-  <wpt lat="39.441710" lon="-123.805980"><name>Fort</name></wpt>
+  <metadata><name>LCX5 - Ferndale to Fort Bragg</name><time>2026-05-31T21:09:24Z</time></metadata>
+  <wpt lat="40.577180" lon="-124.262900"><name>Ferndale - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.576440" lon="-124.263940"></wpt>
+  <wpt lat="40.576440" lon="-124.263940"></wpt>
+  <wpt lat="40.573710" lon="-124.349320"><name>Centerville Beach</name></wpt>
+  <wpt lat="40.575680" lon="-124.264870"></wpt>
+  <wpt lat="40.575680" lon="-124.264870"></wpt>
+  <wpt lat="40.575680" lon="-124.264870"></wpt>
+  <wpt lat="40.575680" lon="-124.264870"></wpt>
+  <wpt lat="40.561540" lon="-124.353010"><name>Fleener Creek Viewpoint</name></wpt>
+  <wpt lat="40.572720" lon="-124.258770"></wpt>
+  <wpt lat="40.571990" lon="-124.255180"></wpt>
+  <wpt lat="40.571050" lon="-124.253140"></wpt>
+  <wpt lat="40.571330" lon="-124.248180"></wpt>
+  <wpt lat="40.640280" lon="-124.224900"><name>Loleta - Food</name></wpt>
+  <wpt lat="40.573390" lon="-124.233910"></wpt>
+  <wpt lat="40.573000" lon="-124.230800"></wpt>
+  <wpt lat="40.573000" lon="-124.230800"></wpt>
+  <wpt lat="40.571480" lon="-124.222350"></wpt>
+  <wpt lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></wpt>
+  <wpt lat="40.566870" lon="-124.208100"></wpt>
+  <wpt lat="40.555840" lon="-124.168530"></wpt>
+  <wpt lat="40.541310" lon="-124.162720"></wpt>
+  <wpt lat="40.526800" lon="-124.164200"></wpt>
+  <wpt lat="40.479530" lon="-124.222670"><name>Bear River Ridge Tree Canopy</name></wpt>
+  <wpt lat="40.510150" lon="-124.157570"></wpt>
+  <wpt lat="40.507730" lon="-124.143880"></wpt>
+  <wpt lat="40.506230" lon="-124.133860"></wpt>
+  <wpt lat="40.506180" lon="-124.113000"></wpt>
+  <wpt lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.493200" lon="-124.101550"></wpt>
+  <wpt lat="40.492170" lon="-124.100790"></wpt>
+  <wpt lat="40.489810" lon="-124.099270"></wpt>
+  <wpt lat="40.488760" lon="-124.099100"></wpt>
+  <wpt lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.462010" lon="-124.050590"></wpt>
+  <wpt lat="40.457480" lon="-124.019120"></wpt>
+  <wpt lat="40.460240" lon="-123.997690"></wpt>
+  <wpt lat="40.453380" lon="-123.980030"></wpt>
+  <wpt lat="40.486290" lon="-123.904890"><name>Grizzly Creek Redwoods SP &amp; CG</name></wpt>
+  <wpt lat="40.438020" lon="-123.969650"></wpt>
+  <wpt lat="40.433770" lon="-123.967420"></wpt>
+  <wpt lat="40.430310" lon="-123.972170"></wpt>
+  <wpt lat="40.431900" lon="-123.978080"></wpt>
+  <wpt lat="40.446050" lon="-123.984790"><name>Seasonal Bridge (open June 15 to Oct 31)</name></wpt>
+  <wpt lat="40.442150" lon="-123.985620"></wpt>
+  <wpt lat="40.430760" lon="-123.984470"></wpt>
+  <wpt lat="40.420820" lon="-123.977830"></wpt>
+  <wpt lat="40.419040" lon="-123.977400"></wpt>
+  <wpt lat="40.416970" lon="-123.967470"><name>Immortal Tree</name></wpt>
+  <wpt lat="40.416740" lon="-123.966090"></wpt>
+  <wpt lat="40.415070" lon="-123.961720"></wpt>
+  <wpt lat="40.408280" lon="-123.954050"></wpt>
+  <wpt lat="40.403830" lon="-123.951730"></wpt>
+  <wpt lat="40.400950" lon="-123.950120"><name>Eternal Tree House</name></wpt>
+  <wpt lat="40.396830" lon="-123.937060"></wpt>
+  <wpt lat="40.391820" lon="-123.930930"></wpt>
+  <wpt lat="40.372160" lon="-123.925870"></wpt>
+  <wpt lat="40.359730" lon="-123.920090"></wpt>
+  <wpt lat="40.352770" lon="-123.924260"><name>Founders Grove</name></wpt>
+  <wpt lat="40.337010" lon="-123.911470"></wpt>
+  <wpt lat="40.335460" lon="-123.903360"></wpt>
+  <wpt lat="40.338990" lon="-123.867630"></wpt>
+  <wpt lat="40.336680" lon="-123.854390"></wpt>
+  <wpt lat="40.325870" lon="-123.839190"><name>McCann Eel River Access</name></wpt>
+  <wpt lat="40.320210" lon="-123.832020"></wpt>
+  <wpt lat="40.314930" lon="-123.831100"></wpt>
+  <wpt lat="40.309100" lon="-123.820220"></wpt>
+  <wpt lat="40.293060" lon="-123.816980"></wpt>
+  <wpt lat="40.278540" lon="-123.795810"><name>Richardson Creative Exhibit</name></wpt>
+  <wpt lat="40.257790" lon="-123.766500"></wpt>
+  <wpt lat="40.212360" lon="-123.735180"></wpt>
+  <wpt lat="40.172960" lon="-123.704230"></wpt>
+  <wpt lat="40.141180" lon="-123.704020"></wpt>
+  <wpt lat="40.099280" lon="-123.795080"><name>Garberville - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.103190" lon="-123.692000"></wpt>
+  <wpt lat="40.087120" lon="-123.673450"></wpt>
+  <wpt lat="40.081530" lon="-123.655880"></wpt>
+  <wpt lat="40.068810" lon="-123.650550"></wpt>
+  <wpt lat="40.048670" lon="-123.642430"><name>New Harris General Store - Food &amp; Gas</name></wpt>
+  <wpt lat="40.000510" lon="-123.617310"></wpt>
+  <wpt lat="39.972360" lon="-123.620840"></wpt>
+  <wpt lat="39.951670" lon="-123.586660"></wpt>
+  <wpt lat="39.915150" lon="-123.582670"></wpt>
+  <wpt lat="39.875410" lon="-123.579200"><name>Honor Farm Stand</name></wpt>
+  <wpt lat="39.859190" lon="-123.568100"></wpt>
+  <wpt lat="39.844290" lon="-123.577370"></wpt>
+  <wpt lat="39.831780" lon="-123.579830"></wpt>
+  <wpt lat="39.782120" lon="-123.542670"></wpt>
+  <wpt lat="39.686250" lon="-123.480620"><name>Laytonville - Food, Gas, Lodging</name></wpt>
+  <wpt lat="39.556150" lon="-123.461330"></wpt>
+  <wpt lat="39.503170" lon="-123.535960"></wpt>
+  <wpt lat="39.465120" lon="-123.617260"></wpt>
+  <wpt lat="39.472010" lon="-123.679800"></wpt>
+  <wpt lat="39.490070" lon="-123.786030"><name>MacKerricher SP &amp; CG</name></wpt>
+  <wpt lat="39.441730" lon="-123.790960"></wpt>
+  <wpt lat="39.441710" lon="-123.794400"></wpt>
+  <wpt lat="39.441690" lon="-123.796580"></wpt>
+  <wpt lat="39.441710" lon="-123.800730"></wpt>
+  <wpt lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></wpt>
+  <wpt lat="39.441710" lon="-123.805980"></wpt>
+  <wpt lat="39.441710" lon="-123.805980"></wpt>
+  <wpt lat="39.441710" lon="-123.805980"></wpt>
+  <wpt lat="39.441710" lon="-123.805980"></wpt>
+  <wpt lat="39.452050" lon="-123.809570"><name>Glass Beach</name></wpt>
   <rte>
     <name>LCX5 - Ferndale to Fort Bragg</name>
-    <rtept lat="40.577150" lon="-124.263060"><name>Ferndale</name></rtept>
-    <rtept lat="40.340160" lon="-123.875450"></rtept>
-    <rtept lat="40.157580" lon="-123.708910"></rtept>
-    <rtept lat="39.977530" lon="-123.624340"></rtept>
-    <rtept lat="39.777090" lon="-123.543820"></rtept>
-    <rtept lat="39.441710" lon="-123.805980"><name>Fort</name></rtept>
+  <rtept lat="40.577180" lon="-124.262900"><name>Ferndale - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.576440" lon="-124.263940"></rtept>
+  <rtept lat="40.576440" lon="-124.263940"></rtept>
+  <rtept lat="40.573710" lon="-124.349320"><name>Centerville Beach</name></rtept>
+  <rtept lat="40.575680" lon="-124.264870"></rtept>
+  <rtept lat="40.575680" lon="-124.264870"></rtept>
+  <rtept lat="40.575680" lon="-124.264870"></rtept>
+  <rtept lat="40.575680" lon="-124.264870"></rtept>
+  <rtept lat="40.561540" lon="-124.353010"><name>Fleener Creek Viewpoint</name></rtept>
+  <rtept lat="40.572720" lon="-124.258770"></rtept>
+  <rtept lat="40.571990" lon="-124.255180"></rtept>
+  <rtept lat="40.571050" lon="-124.253140"></rtept>
+  <rtept lat="40.571330" lon="-124.248180"></rtept>
+  <rtept lat="40.640280" lon="-124.224900"><name>Loleta - Food</name></rtept>
+  <rtept lat="40.573390" lon="-124.233910"></rtept>
+  <rtept lat="40.573000" lon="-124.230800"></rtept>
+  <rtept lat="40.573000" lon="-124.230800"></rtept>
+  <rtept lat="40.571480" lon="-124.222350"></rtept>
+  <rtept lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></rtept>
+  <rtept lat="40.566870" lon="-124.208100"></rtept>
+  <rtept lat="40.555840" lon="-124.168530"></rtept>
+  <rtept lat="40.541310" lon="-124.162720"></rtept>
+  <rtept lat="40.526800" lon="-124.164200"></rtept>
+  <rtept lat="40.479530" lon="-124.222670"><name>Bear River Ridge Tree Canopy</name></rtept>
+  <rtept lat="40.510150" lon="-124.157570"></rtept>
+  <rtept lat="40.507730" lon="-124.143880"></rtept>
+  <rtept lat="40.506230" lon="-124.133860"></rtept>
+  <rtept lat="40.506180" lon="-124.113000"></rtept>
+  <rtept lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.493200" lon="-124.101550"></rtept>
+  <rtept lat="40.492170" lon="-124.100790"></rtept>
+  <rtept lat="40.489810" lon="-124.099270"></rtept>
+  <rtept lat="40.488760" lon="-124.099100"></rtept>
+  <rtept lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.462010" lon="-124.050590"></rtept>
+  <rtept lat="40.457480" lon="-124.019120"></rtept>
+  <rtept lat="40.460240" lon="-123.997690"></rtept>
+  <rtept lat="40.453380" lon="-123.980030"></rtept>
+  <rtept lat="40.486290" lon="-123.904890"><name>Grizzly Creek Redwoods SP &amp; CG</name></rtept>
+  <rtept lat="40.438020" lon="-123.969650"></rtept>
+  <rtept lat="40.433770" lon="-123.967420"></rtept>
+  <rtept lat="40.430310" lon="-123.972170"></rtept>
+  <rtept lat="40.431900" lon="-123.978080"></rtept>
+  <rtept lat="40.446050" lon="-123.984790"><name>Seasonal Bridge (open June 15 to Oct 31)</name></rtept>
+  <rtept lat="40.442150" lon="-123.985620"></rtept>
+  <rtept lat="40.430760" lon="-123.984470"></rtept>
+  <rtept lat="40.420820" lon="-123.977830"></rtept>
+  <rtept lat="40.419040" lon="-123.977400"></rtept>
+  <rtept lat="40.416970" lon="-123.967470"><name>Immortal Tree</name></rtept>
+  <rtept lat="40.416740" lon="-123.966090"></rtept>
+  <rtept lat="40.415070" lon="-123.961720"></rtept>
+  <rtept lat="40.408280" lon="-123.954050"></rtept>
+  <rtept lat="40.403830" lon="-123.951730"></rtept>
+  <rtept lat="40.400950" lon="-123.950120"><name>Eternal Tree House</name></rtept>
+  <rtept lat="40.396830" lon="-123.937060"></rtept>
+  <rtept lat="40.391820" lon="-123.930930"></rtept>
+  <rtept lat="40.372160" lon="-123.925870"></rtept>
+  <rtept lat="40.359730" lon="-123.920090"></rtept>
+  <rtept lat="40.352770" lon="-123.924260"><name>Founders Grove</name></rtept>
+  <rtept lat="40.337010" lon="-123.911470"></rtept>
+  <rtept lat="40.335460" lon="-123.903360"></rtept>
+  <rtept lat="40.338990" lon="-123.867630"></rtept>
+  <rtept lat="40.336680" lon="-123.854390"></rtept>
+  <rtept lat="40.325870" lon="-123.839190"><name>McCann Eel River Access</name></rtept>
+  <rtept lat="40.320210" lon="-123.832020"></rtept>
+  <rtept lat="40.314930" lon="-123.831100"></rtept>
+  <rtept lat="40.309100" lon="-123.820220"></rtept>
+  <rtept lat="40.293060" lon="-123.816980"></rtept>
+  <rtept lat="40.278540" lon="-123.795810"><name>Richardson Creative Exhibit</name></rtept>
+  <rtept lat="40.257790" lon="-123.766500"></rtept>
+  <rtept lat="40.212360" lon="-123.735180"></rtept>
+  <rtept lat="40.172960" lon="-123.704230"></rtept>
+  <rtept lat="40.141180" lon="-123.704020"></rtept>
+  <rtept lat="40.099280" lon="-123.795080"><name>Garberville - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.103190" lon="-123.692000"></rtept>
+  <rtept lat="40.087120" lon="-123.673450"></rtept>
+  <rtept lat="40.081530" lon="-123.655880"></rtept>
+  <rtept lat="40.068810" lon="-123.650550"></rtept>
+  <rtept lat="40.048670" lon="-123.642430"><name>New Harris General Store - Food &amp; Gas</name></rtept>
+  <rtept lat="40.000510" lon="-123.617310"></rtept>
+  <rtept lat="39.972360" lon="-123.620840"></rtept>
+  <rtept lat="39.951670" lon="-123.586660"></rtept>
+  <rtept lat="39.915150" lon="-123.582670"></rtept>
+  <rtept lat="39.875410" lon="-123.579200"><name>Honor Farm Stand</name></rtept>
+  <rtept lat="39.859190" lon="-123.568100"></rtept>
+  <rtept lat="39.844290" lon="-123.577370"></rtept>
+  <rtept lat="39.831780" lon="-123.579830"></rtept>
+  <rtept lat="39.782120" lon="-123.542670"></rtept>
+  <rtept lat="39.686250" lon="-123.480620"><name>Laytonville - Food, Gas, Lodging</name></rtept>
+  <rtept lat="39.556150" lon="-123.461330"></rtept>
+  <rtept lat="39.503170" lon="-123.535960"></rtept>
+  <rtept lat="39.465120" lon="-123.617260"></rtept>
+  <rtept lat="39.472010" lon="-123.679800"></rtept>
+  <rtept lat="39.490070" lon="-123.786030"><name>MacKerricher SP &amp; CG</name></rtept>
+  <rtept lat="39.441730" lon="-123.790960"></rtept>
+  <rtept lat="39.441710" lon="-123.794400"></rtept>
+  <rtept lat="39.441690" lon="-123.796580"></rtept>
+  <rtept lat="39.441710" lon="-123.800730"></rtept>
+  <rtept lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></rtept>
+  <rtept lat="39.441710" lon="-123.805980"></rtept>
+  <rtept lat="39.441710" lon="-123.805980"></rtept>
+  <rtept lat="39.441710" lon="-123.805980"></rtept>
+  <rtept lat="39.441710" lon="-123.805980"></rtept>
+  <rtept lat="39.452050" lon="-123.809570"><name>Glass Beach</name></rtept>
   </rte>
 </gpx>

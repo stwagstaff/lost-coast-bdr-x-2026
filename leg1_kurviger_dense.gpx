@@ -3,20 +3,140 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>LCX1 - Fort Bragg to Shelter Cove</name><time>2026-05-31T21:06:23Z</time></metadata>
-  <wpt lat="39.441830" lon="-123.805980"><name>Fort</name></wpt>
-  <wpt lat="39.776670" lon="-123.835210"></wpt>
-  <wpt lat="39.855570" lon="-123.860520"></wpt>
-  <wpt lat="39.919790" lon="-123.900170"></wpt>
-  <wpt lat="39.968550" lon="-123.965740"></wpt>
-  <wpt lat="40.036780" lon="-124.052370"><name>Shelter</name></wpt>
+  <metadata><name>LCX1 - Fort Bragg to Shelter Cove</name><time>2026-05-31T21:09:24Z</time></metadata>
+  <wpt lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></wpt>
+  <wpt lat="39.444220" lon="-123.805980"></wpt>
+  <wpt lat="39.446500" lon="-123.805920"></wpt>
+  <wpt lat="39.447530" lon="-123.805920"></wpt>
+  <wpt lat="39.449290" lon="-123.805920"></wpt>
+  <wpt lat="39.452050" lon="-123.809570"><name>Glass Beach</name></wpt>
+  <wpt lat="39.459370" lon="-123.806540"></wpt>
+  <wpt lat="39.468900" lon="-123.802310"></wpt>
+  <wpt lat="39.475870" lon="-123.797810"></wpt>
+  <wpt lat="39.481520" lon="-123.794500"></wpt>
+  <wpt lat="39.490070" lon="-123.786030"><name>MacKerricher SP &amp; CG</name></wpt>
+  <wpt lat="39.523640" lon="-123.761070"></wpt>
+  <wpt lat="39.558290" lon="-123.765620"></wpt>
+  <wpt lat="39.589490" lon="-123.777380"></wpt>
+  <wpt lat="39.614770" lon="-123.781760"></wpt>
+  <wpt lat="39.638360" lon="-123.784880"><name>Westport - Food &amp; Lodging</name></wpt>
+  <wpt lat="39.646700" lon="-123.784550"></wpt>
+  <wpt lat="39.648860" lon="-123.780320"></wpt>
+  <wpt lat="39.652900" lon="-123.784270"></wpt>
+  <wpt lat="39.661420" lon="-123.785860"></wpt>
+  <wpt lat="39.680780" lon="-123.790810"><name>Westport-Union CG</name></wpt>
+  <wpt lat="39.727120" lon="-123.810620"></wpt>
+  <wpt lat="39.777860" lon="-123.832990"></wpt>
+  <wpt lat="39.788830" lon="-123.828770"></wpt>
+  <wpt lat="39.817400" lon="-123.840580"></wpt>
+  <wpt lat="39.835430" lon="-123.843680"><name>Usal Beach &amp; CG</name></wpt>
+  <wpt lat="39.854130" lon="-123.857200"></wpt>
+  <wpt lat="39.873880" lon="-123.878730"></wpt>
+  <wpt lat="39.902080" lon="-123.888330"></wpt>
+  <wpt lat="39.924550" lon="-123.913280"></wpt>
+  <wpt lat="39.942630" lon="-123.964630"><name>Needle Rock Visitor Center</name></wpt>
+  <wpt lat="39.947180" lon="-123.946080"></wpt>
+  <wpt lat="39.950810" lon="-123.943100"></wpt>
+  <wpt lat="39.953890" lon="-123.946580"></wpt>
+  <wpt lat="39.957350" lon="-123.950520"></wpt>
+  <wpt lat="39.944740" lon="-123.967500"><name>Rock Arch Viewpoint</name></wpt>
+  <wpt lat="39.975780" lon="-123.970530"></wpt>
+  <wpt lat="40.003690" lon="-123.981550"></wpt>
+  <wpt lat="40.015940" lon="-123.995390"></wpt>
+  <wpt lat="40.036010" lon="-124.027320"></wpt>
+  <wpt lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.028310" lon="-124.076580"><name>Seal Rock</name></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036530" lon="-124.052150"><name>Shelter Cove - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"></wpt>
+  <wpt lat="40.024560" lon="-124.065970"><name>Shelter Cove Beach</name></wpt>
   <rte>
     <name>LCX1 - Fort Bragg to Shelter Cove</name>
-    <rtept lat="39.441830" lon="-123.805980"><name>Fort</name></rtept>
-    <rtept lat="39.776670" lon="-123.835210"></rtept>
-    <rtept lat="39.855570" lon="-123.860520"></rtept>
-    <rtept lat="39.919790" lon="-123.900170"></rtept>
-    <rtept lat="39.968550" lon="-123.965740"></rtept>
-    <rtept lat="40.036780" lon="-124.052370"><name>Shelter</name></rtept>
+  <rtept lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></rtept>
+  <rtept lat="39.444220" lon="-123.805980"></rtept>
+  <rtept lat="39.446500" lon="-123.805920"></rtept>
+  <rtept lat="39.447530" lon="-123.805920"></rtept>
+  <rtept lat="39.449290" lon="-123.805920"></rtept>
+  <rtept lat="39.452050" lon="-123.809570"><name>Glass Beach</name></rtept>
+  <rtept lat="39.459370" lon="-123.806540"></rtept>
+  <rtept lat="39.468900" lon="-123.802310"></rtept>
+  <rtept lat="39.475870" lon="-123.797810"></rtept>
+  <rtept lat="39.481520" lon="-123.794500"></rtept>
+  <rtept lat="39.490070" lon="-123.786030"><name>MacKerricher SP &amp; CG</name></rtept>
+  <rtept lat="39.523640" lon="-123.761070"></rtept>
+  <rtept lat="39.558290" lon="-123.765620"></rtept>
+  <rtept lat="39.589490" lon="-123.777380"></rtept>
+  <rtept lat="39.614770" lon="-123.781760"></rtept>
+  <rtept lat="39.638360" lon="-123.784880"><name>Westport - Food &amp; Lodging</name></rtept>
+  <rtept lat="39.646700" lon="-123.784550"></rtept>
+  <rtept lat="39.648860" lon="-123.780320"></rtept>
+  <rtept lat="39.652900" lon="-123.784270"></rtept>
+  <rtept lat="39.661420" lon="-123.785860"></rtept>
+  <rtept lat="39.680780" lon="-123.790810"><name>Westport-Union CG</name></rtept>
+  <rtept lat="39.727120" lon="-123.810620"></rtept>
+  <rtept lat="39.777860" lon="-123.832990"></rtept>
+  <rtept lat="39.788830" lon="-123.828770"></rtept>
+  <rtept lat="39.817400" lon="-123.840580"></rtept>
+  <rtept lat="39.835430" lon="-123.843680"><name>Usal Beach &amp; CG</name></rtept>
+  <rtept lat="39.854130" lon="-123.857200"></rtept>
+  <rtept lat="39.873880" lon="-123.878730"></rtept>
+  <rtept lat="39.902080" lon="-123.888330"></rtept>
+  <rtept lat="39.924550" lon="-123.913280"></rtept>
+  <rtept lat="39.942630" lon="-123.964630"><name>Needle Rock Visitor Center</name></rtept>
+  <rtept lat="39.947180" lon="-123.946080"></rtept>
+  <rtept lat="39.950810" lon="-123.943100"></rtept>
+  <rtept lat="39.953890" lon="-123.946580"></rtept>
+  <rtept lat="39.957350" lon="-123.950520"></rtept>
+  <rtept lat="39.944740" lon="-123.967500"><name>Rock Arch Viewpoint</name></rtept>
+  <rtept lat="39.975780" lon="-123.970530"></rtept>
+  <rtept lat="40.003690" lon="-123.981550"></rtept>
+  <rtept lat="40.015940" lon="-123.995390"></rtept>
+  <rtept lat="40.036010" lon="-124.027320"></rtept>
+  <rtept lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.028310" lon="-124.076580"><name>Seal Rock</name></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036530" lon="-124.052150"><name>Shelter Cove - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.036780" lon="-124.052370"></rtept>
+  <rtept lat="40.024560" lon="-124.065970"><name>Shelter Cove Beach</name></rtept>
   </rte>
 </gpx>

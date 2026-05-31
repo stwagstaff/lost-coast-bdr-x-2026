@@ -3,18 +3,24 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>LCX3 - Rio Dell to Blue Lake</name><time>2026-05-31T21:06:23Z</time></metadata>
-  <wpt lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></wpt>
-  <wpt lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></wpt>
-  <wpt lat="40.486290" lon="-123.904890"><name>Grizzly Creek Redwoods SP & CG</name></wpt>
+  <metadata><name>LCX3 - Rio Dell to Blue Lake</name><time>2026-05-31T21:09:24Z</time></metadata>
   <wpt lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></wpt>
   <wpt lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.479530" lon="-124.222670"><name>Bear River Ridge Tree Canopy</name></wpt>
+  <wpt lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></wpt>
+  <wpt lat="40.446050" lon="-123.984790"><name>Seasonal Bridge (open June 15 to Oct 31)</name></wpt>
+  <wpt lat="40.486290" lon="-123.904890"><name>Grizzly Creek Redwoods SP &amp; CG</name></wpt>
+  <wpt lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></wpt>
+  <wpt lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></wpt>
   <rte>
     <name>LCX3 - Rio Dell to Blue Lake</name>
-    <rtept lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></rtept>
-    <rtept lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></rtept>
-    <rtept lat="40.486290" lon="-123.904890"><name>Grizzly Creek Redwoods SP & CG</name></rtept>
-    <rtept lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></rtept>
-    <rtept lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.479530" lon="-124.222670"><name>Bear River Ridge Tree Canopy</name></rtept>
+  <rtept lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></rtept>
+  <rtept lat="40.446050" lon="-123.984790"><name>Seasonal Bridge (open June 15 to Oct 31)</name></rtept>
+  <rtept lat="40.486290" lon="-123.904890"><name>Grizzly Creek Redwoods SP &amp; CG</name></rtept>
+  <rtept lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></rtept>
+  <rtept lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></rtept>
   </rte>
 </gpx>

@@ -3,20 +3,150 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>LCX2 - Shelter Cove to Rio Dell</name><time>2026-05-31T21:06:23Z</time></metadata>
-  <wpt lat="40.036430" lon="-124.052130"><name>Shelter</name></wpt>
-  <wpt lat="40.142450" lon="-124.073860"></wpt>
-  <wpt lat="40.231830" lon="-124.139110"></wpt>
-  <wpt lat="40.368770" lon="-124.362120"></wpt>
-  <wpt lat="40.507690" lon="-124.286070"></wpt>
-  <wpt lat="40.498160" lon="-124.105980"><name>Rio</name></wpt>
+  <metadata><name>LCX2 - Shelter Cove to Rio Dell</name><time>2026-05-31T21:09:24Z</time></metadata>
+  <wpt lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.028310" lon="-124.076580"><name>Seal Rock</name></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.024560" lon="-124.065970"><name>Shelter Cove Beach</name></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036430" lon="-124.052130"></wpt>
+  <wpt lat="40.036530" lon="-124.052150"><name>Shelter Cove - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.036550" lon="-124.052150"></wpt>
+  <wpt lat="40.036550" lon="-124.052150"></wpt>
+  <wpt lat="40.036550" lon="-124.052150"></wpt>
+  <wpt lat="40.036550" lon="-124.052150"></wpt>
+  <wpt lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></wpt>
+  <wpt lat="40.036950" lon="-124.052250"></wpt>
+  <wpt lat="40.036950" lon="-124.052250"></wpt>
+  <wpt lat="40.036950" lon="-124.052250"></wpt>
+  <wpt lat="40.036950" lon="-124.052250"></wpt>
+  <wpt lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></wpt>
+  <wpt lat="40.038340" lon="-124.033040"></wpt>
+  <wpt lat="40.056830" lon="-124.047780"></wpt>
+  <wpt lat="40.076110" lon="-124.056900"></wpt>
+  <wpt lat="40.092730" lon="-124.063260"></wpt>
+  <wpt lat="40.103930" lon="-124.076630"><name>Saddle Mtn Viewpoint</name></wpt>
+  <wpt lat="40.137050" lon="-124.072710"></wpt>
+  <wpt lat="40.152240" lon="-124.077450"></wpt>
+  <wpt lat="40.187520" lon="-124.092660"></wpt>
+  <wpt lat="40.217010" lon="-124.107760"></wpt>
+  <wpt lat="40.243430" lon="-124.123690"><name>Honeydew Store</name></wpt>
+  <wpt lat="40.230970" lon="-124.152180"></wpt>
+  <wpt lat="40.248460" lon="-124.169230"></wpt>
+  <wpt lat="40.254190" lon="-124.189620"></wpt>
+  <wpt lat="40.270590" lon="-124.206890"></wpt>
+  <wpt lat="40.269250" lon="-124.229990"><name>A W Way Park &amp; CG</name></wpt>
+  <wpt lat="40.277830" lon="-124.243480"></wpt>
+  <wpt lat="40.291760" lon="-124.251600"></wpt>
+  <wpt lat="40.301850" lon="-124.250740"></wpt>
+  <wpt lat="40.310890" lon="-124.262940"></wpt>
+  <wpt lat="40.324710" lon="-124.287170"><name>Petrolia - Food &amp; Gas</name></wpt>
+  <wpt lat="40.324530" lon="-124.287190"></wpt>
+  <wpt lat="40.324530" lon="-124.287190"></wpt>
+  <wpt lat="40.324530" lon="-124.287190"></wpt>
+  <wpt lat="40.324530" lon="-124.287190"></wpt>
+  <wpt lat="40.324340" lon="-124.287130"><name>Petrolia Oil Plaque</name></wpt>
+  <wpt lat="40.333080" lon="-124.301860"></wpt>
+  <wpt lat="40.345380" lon="-124.343190"></wpt>
+  <wpt lat="40.367300" lon="-124.361940"></wpt>
+  <wpt lat="40.398170" lon="-124.378130"></wpt>
+  <wpt lat="40.417760" lon="-124.398180"><name>Steamboat Rock Viewpoint</name></wpt>
+  <wpt lat="40.457800" lon="-124.370910"></wpt>
+  <wpt lat="40.481170" lon="-124.352150"></wpt>
+  <wpt lat="40.496510" lon="-124.308480"></wpt>
+  <wpt lat="40.504380" lon="-124.277300"></wpt>
+  <wpt lat="40.479530" lon="-124.222670"><name>Bear River Ridge Tree Canopy</name></wpt>
+  <wpt lat="40.456050" lon="-124.196670"></wpt>
+  <wpt lat="40.447780" lon="-124.153720"></wpt>
+  <wpt lat="40.466130" lon="-124.132520"></wpt>
+  <wpt lat="40.482060" lon="-124.132570"></wpt>
+  <wpt lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.493660" lon="-124.106040"></wpt>
+  <wpt lat="40.493820" lon="-124.105930"></wpt>
+  <wpt lat="40.495390" lon="-124.106110"></wpt>
+  <wpt lat="40.496430" lon="-124.104790"></wpt>
+  <wpt lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></wpt>
   <rte>
     <name>LCX2 - Shelter Cove to Rio Dell</name>
-    <rtept lat="40.036430" lon="-124.052130"><name>Shelter</name></rtept>
-    <rtept lat="40.142450" lon="-124.073860"></rtept>
-    <rtept lat="40.231830" lon="-124.139110"></rtept>
-    <rtept lat="40.368770" lon="-124.362120"></rtept>
-    <rtept lat="40.507690" lon="-124.286070"></rtept>
-    <rtept lat="40.498160" lon="-124.105980"><name>Rio</name></rtept>
+  <rtept lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.028310" lon="-124.076580"><name>Seal Rock</name></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.024560" lon="-124.065970"><name>Shelter Cove Beach</name></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036430" lon="-124.052130"></rtept>
+  <rtept lat="40.036530" lon="-124.052150"><name>Shelter Cove - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.036550" lon="-124.052150"></rtept>
+  <rtept lat="40.036550" lon="-124.052150"></rtept>
+  <rtept lat="40.036550" lon="-124.052150"></rtept>
+  <rtept lat="40.036550" lon="-124.052150"></rtept>
+  <rtept lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></rtept>
+  <rtept lat="40.036950" lon="-124.052250"></rtept>
+  <rtept lat="40.036950" lon="-124.052250"></rtept>
+  <rtept lat="40.036950" lon="-124.052250"></rtept>
+  <rtept lat="40.036950" lon="-124.052250"></rtept>
+  <rtept lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></rtept>
+  <rtept lat="40.038340" lon="-124.033040"></rtept>
+  <rtept lat="40.056830" lon="-124.047780"></rtept>
+  <rtept lat="40.076110" lon="-124.056900"></rtept>
+  <rtept lat="40.092730" lon="-124.063260"></rtept>
+  <rtept lat="40.103930" lon="-124.076630"><name>Saddle Mtn Viewpoint</name></rtept>
+  <rtept lat="40.137050" lon="-124.072710"></rtept>
+  <rtept lat="40.152240" lon="-124.077450"></rtept>
+  <rtept lat="40.187520" lon="-124.092660"></rtept>
+  <rtept lat="40.217010" lon="-124.107760"></rtept>
+  <rtept lat="40.243430" lon="-124.123690"><name>Honeydew Store</name></rtept>
+  <rtept lat="40.230970" lon="-124.152180"></rtept>
+  <rtept lat="40.248460" lon="-124.169230"></rtept>
+  <rtept lat="40.254190" lon="-124.189620"></rtept>
+  <rtept lat="40.270590" lon="-124.206890"></rtept>
+  <rtept lat="40.269250" lon="-124.229990"><name>A W Way Park &amp; CG</name></rtept>
+  <rtept lat="40.277830" lon="-124.243480"></rtept>
+  <rtept lat="40.291760" lon="-124.251600"></rtept>
+  <rtept lat="40.301850" lon="-124.250740"></rtept>
+  <rtept lat="40.310890" lon="-124.262940"></rtept>
+  <rtept lat="40.324710" lon="-124.287170"><name>Petrolia - Food &amp; Gas</name></rtept>
+  <rtept lat="40.324530" lon="-124.287190"></rtept>
+  <rtept lat="40.324530" lon="-124.287190"></rtept>
+  <rtept lat="40.324530" lon="-124.287190"></rtept>
+  <rtept lat="40.324530" lon="-124.287190"></rtept>
+  <rtept lat="40.324340" lon="-124.287130"><name>Petrolia Oil Plaque</name></rtept>
+  <rtept lat="40.333080" lon="-124.301860"></rtept>
+  <rtept lat="40.345380" lon="-124.343190"></rtept>
+  <rtept lat="40.367300" lon="-124.361940"></rtept>
+  <rtept lat="40.398170" lon="-124.378130"></rtept>
+  <rtept lat="40.417760" lon="-124.398180"><name>Steamboat Rock Viewpoint</name></rtept>
+  <rtept lat="40.457800" lon="-124.370910"></rtept>
+  <rtept lat="40.481170" lon="-124.352150"></rtept>
+  <rtept lat="40.496510" lon="-124.308480"></rtept>
+  <rtept lat="40.504380" lon="-124.277300"></rtept>
+  <rtept lat="40.479530" lon="-124.222670"><name>Bear River Ridge Tree Canopy</name></rtept>
+  <rtept lat="40.456050" lon="-124.196670"></rtept>
+  <rtept lat="40.447780" lon="-124.153720"></rtept>
+  <rtept lat="40.466130" lon="-124.132520"></rtept>
+  <rtept lat="40.482060" lon="-124.132570"></rtept>
+  <rtept lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.493660" lon="-124.106040"></rtept>
+  <rtept lat="40.493820" lon="-124.105930"></rtept>
+  <rtept lat="40.495390" lon="-124.106110"></rtept>
+  <rtept lat="40.496430" lon="-124.104790"></rtept>
+  <rtept lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></rtept>
   </rte>
 </gpx>

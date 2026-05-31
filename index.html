@@ -51,10 +51,29 @@
     .upload-link { display: block; margin-top: 14px; padding: 16px 18px; background: #0088cc; border-radius: 10px; font-size: 1rem; font-weight: 700; text-decoration: none; text-align: center; color: #fff; }
     .upload-link span { display: block; font-size: 0.75rem; font-weight: 400; opacity: 0.85; margin-top: 4px; }
     .upload-link:active { opacity: 0.8; transform: scale(0.98); }
+    .options-toggle { width: 100%; background: #0d1117; border: none; color: #888; font-size: 0.78rem; padding: 10px 16px; text-align: left; cursor: pointer; letter-spacing: 0.3px; display: flex; justify-content: space-between; align-items: center; }
+    .options-toggle:hover { color: #aaa; }
+    .options-panel { display: none; border-top: 1px solid #2a2a4e; }
+    .options-panel.open { display: block; }
+    .option-card { margin: 12px; background: #12122a; border-radius: 10px; overflow: hidden; border: 1px solid #2a2a4e; }
+    .option-header { padding: 10px 14px; background: #0d1117; border-bottom: 1px solid #2a2a4e; }
+    .option-header h3 { font-size: 0.82rem; color: #e74c3c; text-transform: uppercase; letter-spacing: 0.8px; }
+    .option-header p { font-size: 0.78rem; color: #777; margin-top: 2px; }
+    .option-body { padding: 12px 14px 14px; }
+    .option-body .prose { font-size: 0.84rem; }
+    .option-body .hazards { font-size: 0.8rem; }
+    .option-body .links { margin-top: 12px; gap: 9px; }
+    .option-body .nav-link { padding: 12px 14px; font-size: 0.88rem; }
     footer { text-align: center; padding: 18px; font-size: 0.7rem; color: #333; }
     footer a { color: #333; text-decoration: none; }
   </style>
   <script>
+  function toggleOptions(id) {
+    var p = document.getElementById(id);
+    var btn = p.previousElementSibling;
+    p.classList.toggle('open');
+    btn.querySelector('span').textContent = p.classList.contains('open') ? '▲' : '▼';
+  }
   function toggleMenu() {
     var m = document.getElementById('navMenu');
     m.classList.toggle('open');
@@ -101,6 +120,30 @@
         <a href="#" onclick="downloadFile('leg1_kurviger_dense.gpx','leg1_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.9rem;padding:13px 18px;">⬇ Kurviger · Garmin — Dense Waypoints<span style='font-size:0.72rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → open from Files app</span></a>
       </div>
     </div>
+      <button class="options-toggle" onclick="toggleOptions('opts_leg1')">
+      ➕ 1 Extension/Alternate available
+      <span>▼</span>
+    </button>
+    <div class="options-panel" id="opts_leg1">
+      <div class="option-card">
+        <div class="option-header">
+          <h3>LCX1 Extension — Needle Rock Visitor Center</h3>
+          <p>Sinkyone Wilderness detour · ~265 track pts · Short spur</p>
+        </div>
+        <div class="option-body">
+          <p class="prose">A short spur off Leg 1 dropping down to the Needle Rock Visitor Center in the Sinkyone Wilderness State Park. Stunning coastal views over black sand beaches.</p>
+          <p class="hazards">⚠️ Primitive road · High clearance recommended</p>
+          <div class="links">
+            <a href="#" onclick="downloadFile('leg1_ext1_calimoto_waypoints.gpx','leg1_ext1_calimoto_waypoints.gpx');return false;" class="nav-link" style="background:#0d47a1;">⬇ Calimoto — Sparse Waypoints<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="#" onclick="downloadFile('leg1_ext1_calimoto_track.gpx','leg1_ext1_calimoto_track.gpx');return false;" class="nav-link" style="background:#1976d2;">⬇ Calimoto — Dense Track<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="https://www.google.com/maps/dir/?api=1&destination=Needle+Rock+Visitor+Center,CA&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
+            <a href="waze://?ll=39.94263,-123.96463&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+            <a href="#" onclick="downloadFile('leg1_ext1_kurviger_sparse.gpx','leg1_ext1_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Sparse</a>
+            <a href="#" onclick="downloadFile('leg1_ext1_kurviger_dense.gpx','leg1_ext1_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Dense</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </section>
   <section class="day-card">
     <div class="day-header">
@@ -119,6 +162,84 @@
         <a href="waze://?ll=40.49783,-124.10581&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze — destination</a>
         <a href="#" onclick="downloadFile('leg2_kurviger_sparse.gpx','leg2_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.9rem;padding:13px 18px;">⬇ Kurviger · Garmin — Sparse Waypoints<span style='font-size:0.72rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → open from Files app</span></a>
         <a href="#" onclick="downloadFile('leg2_kurviger_dense.gpx','leg2_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.9rem;padding:13px 18px;">⬇ Kurviger · Garmin — Dense Waypoints<span style='font-size:0.72rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → open from Files app</span></a>
+      </div>
+    </div>
+      <button class="options-toggle" onclick="toggleOptions('opts_leg2')">
+      ➕ 4 Extensions/Alternates available
+      <span>▼</span>
+    </button>
+    <div class="options-panel" id="opts_leg2">
+      <div class="option-card">
+        <div class="option-header">
+          <h3>LCX2 Alternate (Harder) — Saddle Mountain</h3>
+          <p>More challenging King Range alternate · ~681 track pts · Technical</p>
+        </div>
+        <div class="option-body">
+          <p class="prose">A harder alternate through the King Range climbing to the Saddle Mountain viewpoint. More technical than the main LCX2 route.</p>
+          <p class="hazards">⚠️ Technical terrain · Not recommended when wet</p>
+          <div class="links">
+            <a href="#" onclick="downloadFile('leg2_alt1_calimoto_waypoints.gpx','leg2_alt1_calimoto_waypoints.gpx');return false;" class="nav-link" style="background:#0d47a1;">⬇ Calimoto — Sparse Waypoints<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="#" onclick="downloadFile('leg2_alt1_calimoto_track.gpx','leg2_alt1_calimoto_track.gpx');return false;" class="nav-link" style="background:#1976d2;">⬇ Calimoto — Dense Track<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="https://www.google.com/maps/dir/?api=1&destination=Saddle+Mountain+CA&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
+            <a href="waze://?ll=40.10393,-124.07663&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+            <a href="#" onclick="downloadFile('leg2_alt1_kurviger_sparse.gpx','leg2_alt1_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Sparse</a>
+            <a href="#" onclick="downloadFile('leg2_alt1_kurviger_dense.gpx','leg2_alt1_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Dense</a>
+          </div>
+        </div>
+      </div>
+      <div class="option-card">
+        <div class="option-header">
+          <h3>LCX2 Extension — Kinsey Ridge Viewpoint</h3>
+          <p>King Range panoramic viewpoint spur · ~753 track pts · Scenic spur</p>
+        </div>
+        <div class="option-body">
+          <p class="prose">A scenic spur climbing to the Kinsey Ridge viewpoint with sweeping panoramas over the King Range and Pacific coastline.</p>
+          <p class="hazards">⚠️ Exposed ridge road · High winds possible</p>
+          <div class="links">
+            <a href="#" onclick="downloadFile('leg2_ext1_calimoto_waypoints.gpx','leg2_ext1_calimoto_waypoints.gpx');return false;" class="nav-link" style="background:#0d47a1;">⬇ Calimoto — Sparse Waypoints<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="#" onclick="downloadFile('leg2_ext1_calimoto_track.gpx','leg2_ext1_calimoto_track.gpx');return false;" class="nav-link" style="background:#1976d2;">⬇ Calimoto — Dense Track<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="https://www.google.com/maps/dir/?api=1&destination=Kinsey+Ridge+CA&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
+            <a href="waze://?ll=40.18867,-124.2055&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+            <a href="#" onclick="downloadFile('leg2_ext1_kurviger_sparse.gpx','leg2_ext1_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Sparse</a>
+            <a href="#" onclick="downloadFile('leg2_ext1_kurviger_dense.gpx','leg2_ext1_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Dense</a>
+          </div>
+        </div>
+      </div>
+      <div class="option-card">
+        <div class="option-header">
+          <h3>LCX2 Extension — Shelter Cove Loop</h3>
+          <p>Coastal loop through Shelter Cove · ~519 track pts · Coastal loop</p>
+        </div>
+        <div class="option-body">
+          <p class="prose">A loop around the Shelter Cove peninsula taking in Black Sands Beach and the village — last chance for fuel before the remote northern push.</p>
+          <p class="hazards">⚠️ Narrow coastal roads</p>
+          <div class="links">
+            <a href="#" onclick="downloadFile('leg2_ext2_calimoto_waypoints.gpx','leg2_ext2_calimoto_waypoints.gpx');return false;" class="nav-link" style="background:#0d47a1;">⬇ Calimoto — Sparse Waypoints<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="#" onclick="downloadFile('leg2_ext2_calimoto_track.gpx','leg2_ext2_calimoto_track.gpx');return false;" class="nav-link" style="background:#1976d2;">⬇ Calimoto — Dense Track<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="https://www.google.com/maps/dir/?api=1&destination=Shelter+Cove,CA&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
+            <a href="waze://?ll=40.02456,-124.06597&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+            <a href="#" onclick="downloadFile('leg2_ext2_kurviger_sparse.gpx','leg2_ext2_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Sparse</a>
+            <a href="#" onclick="downloadFile('leg2_ext2_kurviger_dense.gpx','leg2_ext2_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Dense</a>
+          </div>
+        </div>
+      </div>
+      <div class="option-card">
+        <div class="option-header">
+          <h3>LCX2 Extension — Windy Point Knoll</h3>
+          <p>Remote coastal viewpoint · ~1,059 track pts · Remote spur</p>
+        </div>
+        <div class="option-body">
+          <p class="prose">The most remote extension on the route — a long spur out to Windy Point Knoll with dramatic views of the Lost Coast escarpment.</p>
+          <p class="hazards">⚠️ Very remote · No services · Exposed</p>
+          <div class="links">
+            <a href="#" onclick="downloadFile('leg2_ext3_calimoto_waypoints.gpx','leg2_ext3_calimoto_waypoints.gpx');return false;" class="nav-link" style="background:#0d47a1;">⬇ Calimoto — Sparse Waypoints<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="#" onclick="downloadFile('leg2_ext3_calimoto_track.gpx','leg2_ext3_calimoto_track.gpx');return false;" class="nav-link" style="background:#1976d2;">⬇ Calimoto — Dense Track<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="https://www.google.com/maps/dir/?api=1&destination=40.26127,-124.36098&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
+            <a href="waze://?ll=40.26127,-124.36098&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+            <a href="#" onclick="downloadFile('leg2_ext3_kurviger_sparse.gpx','leg2_ext3_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Sparse</a>
+            <a href="#" onclick="downloadFile('leg2_ext3_kurviger_dense.gpx','leg2_ext3_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Dense</a>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -159,6 +280,30 @@
         <a href="waze://?ll=40.57718,-124.2629&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze — destination</a>
         <a href="#" onclick="downloadFile('leg4_kurviger_sparse.gpx','leg4_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.9rem;padding:13px 18px;">⬇ Kurviger · Garmin — Sparse Waypoints<span style='font-size:0.72rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → open from Files app</span></a>
         <a href="#" onclick="downloadFile('leg4_kurviger_dense.gpx','leg4_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.9rem;padding:13px 18px;">⬇ Kurviger · Garmin — Dense Waypoints<span style='font-size:0.72rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → open from Files app</span></a>
+      </div>
+    </div>
+      <button class="options-toggle" onclick="toggleOptions('opts_leg4')">
+      ➕ 1 Extension/Alternate available
+      <span>▼</span>
+    </button>
+    <div class="options-panel" id="opts_leg4">
+      <div class="option-card">
+        <div class="option-header">
+          <h3>LCX4 Extension — Table Bluff Beach</h3>
+          <p>Humboldt Bay coastal beach spur · ~58 track pts · Short beach spur</p>
+        </div>
+        <div class="option-body">
+          <p class="prose">A short spur down to Table Bluff Beach on the southern edge of Humboldt Bay.</p>
+          <p class="hazards">⚠️ Soft sand at beach — park before the sand</p>
+          <div class="links">
+            <a href="#" onclick="downloadFile('leg4_ext1_calimoto_waypoints.gpx','leg4_ext1_calimoto_waypoints.gpx');return false;" class="nav-link" style="background:#0d47a1;">⬇ Calimoto — Sparse Waypoints<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="#" onclick="downloadFile('leg4_ext1_calimoto_track.gpx','leg4_ext1_calimoto_track.gpx');return false;" class="nav-link" style="background:#1976d2;">⬇ Calimoto — Dense Track<span style='font-size:0.7rem;font-weight:400;opacity:0.85;display:block;margin-top:3px;'>Save → Calimoto → Rides → Planned → Import GPX</span></a>
+            <a href="https://www.google.com/maps/dir/?api=1&destination=Table+Bluff+Beach,CA&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
+            <a href="waze://?ll=40.69692,-124.27588&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+            <a href="#" onclick="downloadFile('leg4_ext1_kurviger_sparse.gpx','leg4_ext1_kurviger_sparse.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Sparse</a>
+            <a href="#" onclick="downloadFile('leg4_ext1_kurviger_dense.gpx','leg4_ext1_kurviger_dense.gpx');return false;" class="nav-link" style="background:#37474f;font-size:0.88rem;padding:11px 14px;">⬇ Kurviger · Garmin — Dense</a>
+          </div>
+        </div>
       </div>
     </div>
   </section>

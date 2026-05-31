@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX2 Extension — Kinsey Ridge Viewpoint</name><time>2026-05-31T21:09:00Z</time></metadata>
+  <wpt lat="40.227250" lon="-124.110510"><name>Start</name></wpt>
+  <wpt lat="40.205910" lon="-124.154820"></wpt>
+  <wpt lat="40.186400" lon="-124.187070"></wpt>
+  <wpt lat="40.186400" lon="-124.187070"></wpt>
+  <wpt lat="40.205910" lon="-124.154820"></wpt>
+  <wpt lat="40.227250" lon="-124.110510"><name>End</name></wpt>
+  <rte>
+    <name>LCX2 Extension — Kinsey Ridge Viewpoint</name>
+    <rtept lat="40.227250" lon="-124.110510"><name>Start</name></rtept>
+    <rtept lat="40.205910" lon="-124.154820"></rtept>
+    <rtept lat="40.186400" lon="-124.187070"></rtept>
+    <rtept lat="40.186400" lon="-124.187070"></rtept>
+    <rtept lat="40.205910" lon="-124.154820"></rtept>
+    <rtept lat="40.227250" lon="-124.110510"><name>End</name></rtept>
+  </rte>
+</gpx>

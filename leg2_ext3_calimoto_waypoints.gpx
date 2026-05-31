@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX2 Extension — Windy Point Knoll</name><time>2026-05-31T21:09:00Z</time></metadata>
+  <wpt lat="40.313020" lon="-124.283160"><name>Start</name></wpt>
+  <wpt lat="40.313030" lon="-124.283160"><name>End</name></wpt>
+</gpx>

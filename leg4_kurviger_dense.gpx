@@ -3,20 +3,330 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>LCX4 - Blue Lake to Ferndale</name><time>2026-05-31T21:06:23Z</time></metadata>
-  <wpt lat="40.884460" lon="-123.997940"><name>Blue</name></wpt>
-  <wpt lat="40.991210" lon="-123.777300"></wpt>
-  <wpt lat="41.086410" lon="-123.763680"></wpt>
-  <wpt lat="41.154680" lon="-123.814050"></wpt>
+  <metadata><name>LCX4 - Blue Lake to Ferndale</name><time>2026-05-31T21:09:24Z</time></metadata>
+  <wpt lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.870750" lon="-123.954880"></wpt>
+  <wpt lat="40.864380" lon="-123.936960"></wpt>
+  <wpt lat="40.858130" lon="-123.909670"></wpt>
+  <wpt lat="40.873300" lon="-123.888570"></wpt>
+  <wpt lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></wpt>
+  <wpt lat="40.946430" lon="-123.844890"></wpt>
+  <wpt lat="40.972270" lon="-123.817590"></wpt>
+  <wpt lat="40.994380" lon="-123.774260"></wpt>
+  <wpt lat="41.008880" lon="-123.751920"></wpt>
+  <wpt lat="41.064680" lon="-123.685570"><name>Hoopa - Food &amp; Gas</name></wpt>
+  <wpt lat="41.057020" lon="-123.753670"></wpt>
+  <wpt lat="41.112340" lon="-123.760060"></wpt>
+  <wpt lat="41.143290" lon="-123.774150"></wpt>
+  <wpt lat="41.151930" lon="-123.806270"></wpt>
+  <wpt lat="41.151430" lon="-123.882740"><name>Schoolhouse Peak Lookout</name></wpt>
+  <wpt lat="41.146760" lon="-123.885350"></wpt>
+  <wpt lat="41.146250" lon="-123.887630"></wpt>
+  <wpt lat="41.146740" lon="-123.889280"></wpt>
+  <wpt lat="41.147700" lon="-123.891690"></wpt>
+  <wpt lat="41.148120" lon="-123.893300"><name>Lyons Ranch Trailhead</name></wpt>
+  <wpt lat="41.155450" lon="-123.889690"></wpt>
+  <wpt lat="41.161800" lon="-123.898770"></wpt>
+  <wpt lat="41.175300" lon="-123.920310"></wpt>
+  <wpt lat="41.190150" lon="-123.932710"></wpt>
+  <wpt lat="41.205470" lon="-123.950390"><name>Dolason Prairie Picnic Area</name></wpt>
+  <wpt lat="41.220700" lon="-123.958870"></wpt>
+  <wpt lat="41.229410" lon="-123.974790"></wpt>
+  <wpt lat="41.241990" lon="-123.982640"></wpt>
+  <wpt lat="41.251130" lon="-123.985430"></wpt>
+  <wpt lat="41.257930" lon="-123.988800"><name>Redwood Creek Overlook</name></wpt>
+  <wpt lat="41.276810" lon="-124.004870"></wpt>
+  <wpt lat="41.300530" lon="-124.013820"></wpt>
+  <wpt lat="41.300230" lon="-124.026590"></wpt>
+  <wpt lat="41.301280" lon="-124.048780"></wpt>
+  <wpt lat="41.284970" lon="-124.073490"><name>Orick - Food &amp; Gas</name></wpt>
+  <wpt lat="41.284930" lon="-124.076740"></wpt>
+  <wpt lat="41.285050" lon="-124.078130"></wpt>
+  <wpt lat="41.286190" lon="-124.082100"></wpt>
+  <wpt lat="41.285270" lon="-124.083410"></wpt>
+  <wpt lat="41.292540" lon="-124.088560"><name>Orick Beach</name></wpt>
+  <wpt lat="41.281240" lon="-124.090100"></wpt>
+  <wpt lat="41.277200" lon="-124.088690"></wpt>
+  <wpt lat="41.271900" lon="-124.089570"></wpt>
+  <wpt lat="41.264090" lon="-124.088040"></wpt>
+  <wpt lat="41.258330" lon="-124.096040"><name>Stone Lagoon Beach Access</name></wpt>
+  <wpt lat="41.253280" lon="-124.086240"></wpt>
+  <wpt lat="41.248790" lon="-124.087150"></wpt>
+  <wpt lat="41.244710" lon="-124.087460"></wpt>
+  <wpt lat="41.238810" lon="-124.083770"></wpt>
+  <wpt lat="41.232710" lon="-124.083560"><name>Stone Lagoon Visitor Center</name></wpt>
+  <wpt lat="41.228660" lon="-124.084440"></wpt>
+  <wpt lat="41.226950" lon="-124.085790"></wpt>
+  <wpt lat="41.225960" lon="-124.087680"></wpt>
+  <wpt lat="41.224240" lon="-124.091180"></wpt>
+  <wpt lat="41.223490" lon="-124.093340"><name>Dry Lagoon Beach Access</name></wpt>
+  <wpt lat="41.210380" lon="-124.109310"></wpt>
+  <wpt lat="41.197290" lon="-124.110250"></wpt>
+  <wpt lat="41.188840" lon="-124.108360"></wpt>
+  <wpt lat="41.168670" lon="-124.102180"></wpt>
+  <wpt lat="41.156280" lon="-124.127300"><name>Big Lagoon Beach &amp; CG</name></wpt>
+  <wpt lat="41.148880" lon="-124.135810"></wpt>
+  <wpt lat="41.140280" lon="-124.137980"></wpt>
+  <wpt lat="41.137400" lon="-124.143470"></wpt>
+  <wpt lat="41.136550" lon="-124.147550"></wpt>
+  <wpt lat="41.133480" lon="-124.153510"><name>Sue-meg SP &amp; CG</name></wpt>
   <wpt lat="41.108390" lon="-124.159860"></wpt>
-  <wpt lat="40.577150" lon="-124.263060"><name>Ferndale</name></wpt>
+  <wpt lat="41.090910" lon="-124.152050"></wpt>
+  <wpt lat="41.079510" lon="-124.152570"></wpt>
+  <wpt lat="41.069810" lon="-124.148770"></wpt>
+  <wpt lat="41.057500" lon="-124.149000"><name>Trinidad State Beach</name></wpt>
+  <wpt lat="41.056960" lon="-124.147580"></wpt>
+  <wpt lat="41.057730" lon="-124.147940"></wpt>
+  <wpt lat="41.058460" lon="-124.145290"></wpt>
+  <wpt lat="41.059330" lon="-124.141980"></wpt>
+  <wpt lat="41.061660" lon="-124.140210"><name>Trinidad - Food, Gas, Lodging</name></wpt>
+  <wpt lat="41.056850" lon="-124.135940"></wpt>
+  <wpt lat="41.054770" lon="-124.131930"></wpt>
+  <wpt lat="41.050800" lon="-124.126280"></wpt>
+  <wpt lat="41.044860" lon="-124.122270"></wpt>
+  <wpt lat="41.040050" lon="-124.119610"><name>Tepona Point Viewpoint</name></wpt>
+  <wpt lat="41.039900" lon="-124.119290"></wpt>
+  <wpt lat="41.039580" lon="-124.118710"></wpt>
+  <wpt lat="41.039210" lon="-124.118410"></wpt>
+  <wpt lat="41.038890" lon="-124.118260"></wpt>
+  <wpt lat="41.036570" lon="-124.117690"><name>Houda Point Beach</name></wpt>
+  <wpt lat="41.035070" lon="-124.116650"></wpt>
+  <wpt lat="41.034210" lon="-124.115120"></wpt>
+  <wpt lat="41.034470" lon="-124.112830"></wpt>
+  <wpt lat="41.030910" lon="-124.109970"></wpt>
+  <wpt lat="41.029490" lon="-124.109320"><name>Moonstone Beach</name></wpt>
+  <wpt lat="41.028270" lon="-124.107870"></wpt>
+  <wpt lat="41.023660" lon="-124.107310"></wpt>
+  <wpt lat="41.018500" lon="-124.106950"></wpt>
+  <wpt lat="41.013740" lon="-124.108760"></wpt>
+  <wpt lat="41.006550" lon="-124.111950"><name>Clam Beach Park &amp; Beach</name></wpt>
+  <wpt lat="41.003980" lon="-124.112690"></wpt>
+  <wpt lat="40.996990" lon="-124.113720"></wpt>
+  <wpt lat="40.996990" lon="-124.113720"></wpt>
+  <wpt lat="40.995470" lon="-124.114050"></wpt>
+  <wpt lat="40.995090" lon="-124.114250"><name>Clam Beach CG</name></wpt>
+  <wpt lat="40.991330" lon="-124.111370"></wpt>
+  <wpt lat="40.983570" lon="-124.103500"></wpt>
+  <wpt lat="40.967620" lon="-124.100670"></wpt>
+  <wpt lat="40.953700" lon="-124.100840"></wpt>
+  <wpt lat="40.942000" lon="-124.100970"><name>McKinleyville - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.939620" lon="-124.100950"></wpt>
+  <wpt lat="40.938060" lon="-124.100920"></wpt>
+  <wpt lat="40.936180" lon="-124.100920"></wpt>
+  <wpt lat="40.933580" lon="-124.100920"></wpt>
+  <wpt lat="40.929810" lon="-124.133650"><name>Mad River Park &amp; Beach</name></wpt>
+  <wpt lat="40.920000" lon="-124.097940"></wpt>
+  <wpt lat="40.915510" lon="-124.092680"></wpt>
+  <wpt lat="40.901070" lon="-124.091350"></wpt>
+  <wpt lat="40.897660" lon="-124.105790"></wpt>
+  <wpt lat="40.870880" lon="-124.134960"><name>Water Buffalo Ranch</name></wpt>
+  <wpt lat="40.864630" lon="-124.152010"></wpt>
+  <wpt lat="40.862120" lon="-124.157140"></wpt>
+  <wpt lat="40.851850" lon="-124.163850"></wpt>
+  <wpt lat="40.842580" lon="-124.167370"></wpt>
+  <wpt lat="40.820020" lon="-124.181670"><name>Samoa Cookhouse &amp; Museum</name></wpt>
+  <wpt lat="40.808010" lon="-124.154030"></wpt>
+  <wpt lat="40.804560" lon="-124.165530"></wpt>
+  <wpt lat="40.778500" lon="-124.188580"></wpt>
+  <wpt lat="40.755820" lon="-124.190550"></wpt>
+  <wpt lat="40.753840" lon="-124.233140"><name>South Jetty</name></wpt>
+  <wpt lat="40.700610" lon="-124.204150"></wpt>
+  <wpt lat="40.678060" lon="-124.197930"></wpt>
+  <wpt lat="40.669220" lon="-124.208290"></wpt>
+  <wpt lat="40.677180" lon="-124.226620"></wpt>
+  <wpt lat="40.696920" lon="-124.275880"><name>Table Bluff Beach</name></wpt>
+  <wpt lat="40.682220" lon="-124.254750"></wpt>
+  <wpt lat="40.678810" lon="-124.254860"></wpt>
+  <wpt lat="40.674460" lon="-124.254830"></wpt>
+  <wpt lat="40.671880" lon="-124.254580"></wpt>
+  <wpt lat="40.643190" lon="-124.303060"><name>Crab Park</name></wpt>
+  <wpt lat="40.656970" lon="-124.241380"></wpt>
+  <wpt lat="40.653000" lon="-124.234900"></wpt>
+  <wpt lat="40.646990" lon="-124.230590"></wpt>
+  <wpt lat="40.645470" lon="-124.226360"></wpt>
+  <wpt lat="40.640280" lon="-124.224900"><name>Loleta - Food</name></wpt>
+  <wpt lat="40.633260" lon="-124.222520"></wpt>
+  <wpt lat="40.622590" lon="-124.216060"></wpt>
+  <wpt lat="40.620190" lon="-124.210890"></wpt>
+  <wpt lat="40.617030" lon="-124.203190"></wpt>
+  <wpt lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></wpt>
+  <wpt lat="40.599630" lon="-124.214110"></wpt>
+  <wpt lat="40.596460" lon="-124.233910"></wpt>
+  <wpt lat="40.594780" lon="-124.247780"></wpt>
+  <wpt lat="40.585470" lon="-124.259040"></wpt>
+  <wpt lat="40.573710" lon="-124.349320"><name>Centerville Beach</name></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577180" lon="-124.262900"><name>Ferndale - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"></wpt>
+  <wpt lat="40.561540" lon="-124.353010"><name>Fleener Creek Viewpoint</name></wpt>
   <rte>
     <name>LCX4 - Blue Lake to Ferndale</name>
-    <rtept lat="40.884460" lon="-123.997940"><name>Blue</name></rtept>
-    <rtept lat="40.991210" lon="-123.777300"></rtept>
-    <rtept lat="41.086410" lon="-123.763680"></rtept>
-    <rtept lat="41.154680" lon="-123.814050"></rtept>
-    <rtept lat="41.108390" lon="-124.159860"></rtept>
-    <rtept lat="40.577150" lon="-124.263060"><name>Ferndale</name></rtept>
+  <rtept lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.870750" lon="-123.954880"></rtept>
+  <rtept lat="40.864380" lon="-123.936960"></rtept>
+  <rtept lat="40.858130" lon="-123.909670"></rtept>
+  <rtept lat="40.873300" lon="-123.888570"></rtept>
+  <rtept lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></rtept>
+  <rtept lat="40.946430" lon="-123.844890"></rtept>
+  <rtept lat="40.972270" lon="-123.817590"></rtept>
+  <rtept lat="40.994380" lon="-123.774260"></rtept>
+  <rtept lat="41.008880" lon="-123.751920"></rtept>
+  <rtept lat="41.064680" lon="-123.685570"><name>Hoopa - Food &amp; Gas</name></rtept>
+  <rtept lat="41.057020" lon="-123.753670"></rtept>
+  <rtept lat="41.112340" lon="-123.760060"></rtept>
+  <rtept lat="41.143290" lon="-123.774150"></rtept>
+  <rtept lat="41.151930" lon="-123.806270"></rtept>
+  <rtept lat="41.151430" lon="-123.882740"><name>Schoolhouse Peak Lookout</name></rtept>
+  <rtept lat="41.146760" lon="-123.885350"></rtept>
+  <rtept lat="41.146250" lon="-123.887630"></rtept>
+  <rtept lat="41.146740" lon="-123.889280"></rtept>
+  <rtept lat="41.147700" lon="-123.891690"></rtept>
+  <rtept lat="41.148120" lon="-123.893300"><name>Lyons Ranch Trailhead</name></rtept>
+  <rtept lat="41.155450" lon="-123.889690"></rtept>
+  <rtept lat="41.161800" lon="-123.898770"></rtept>
+  <rtept lat="41.175300" lon="-123.920310"></rtept>
+  <rtept lat="41.190150" lon="-123.932710"></rtept>
+  <rtept lat="41.205470" lon="-123.950390"><name>Dolason Prairie Picnic Area</name></rtept>
+  <rtept lat="41.220700" lon="-123.958870"></rtept>
+  <rtept lat="41.229410" lon="-123.974790"></rtept>
+  <rtept lat="41.241990" lon="-123.982640"></rtept>
+  <rtept lat="41.251130" lon="-123.985430"></rtept>
+  <rtept lat="41.257930" lon="-123.988800"><name>Redwood Creek Overlook</name></rtept>
+  <rtept lat="41.276810" lon="-124.004870"></rtept>
+  <rtept lat="41.300530" lon="-124.013820"></rtept>
+  <rtept lat="41.300230" lon="-124.026590"></rtept>
+  <rtept lat="41.301280" lon="-124.048780"></rtept>
+  <rtept lat="41.284970" lon="-124.073490"><name>Orick - Food &amp; Gas</name></rtept>
+  <rtept lat="41.284930" lon="-124.076740"></rtept>
+  <rtept lat="41.285050" lon="-124.078130"></rtept>
+  <rtept lat="41.286190" lon="-124.082100"></rtept>
+  <rtept lat="41.285270" lon="-124.083410"></rtept>
+  <rtept lat="41.292540" lon="-124.088560"><name>Orick Beach</name></rtept>
+  <rtept lat="41.281240" lon="-124.090100"></rtept>
+  <rtept lat="41.277200" lon="-124.088690"></rtept>
+  <rtept lat="41.271900" lon="-124.089570"></rtept>
+  <rtept lat="41.264090" lon="-124.088040"></rtept>
+  <rtept lat="41.258330" lon="-124.096040"><name>Stone Lagoon Beach Access</name></rtept>
+  <rtept lat="41.253280" lon="-124.086240"></rtept>
+  <rtept lat="41.248790" lon="-124.087150"></rtept>
+  <rtept lat="41.244710" lon="-124.087460"></rtept>
+  <rtept lat="41.238810" lon="-124.083770"></rtept>
+  <rtept lat="41.232710" lon="-124.083560"><name>Stone Lagoon Visitor Center</name></rtept>
+  <rtept lat="41.228660" lon="-124.084440"></rtept>
+  <rtept lat="41.226950" lon="-124.085790"></rtept>
+  <rtept lat="41.225960" lon="-124.087680"></rtept>
+  <rtept lat="41.224240" lon="-124.091180"></rtept>
+  <rtept lat="41.223490" lon="-124.093340"><name>Dry Lagoon Beach Access</name></rtept>
+  <rtept lat="41.210380" lon="-124.109310"></rtept>
+  <rtept lat="41.197290" lon="-124.110250"></rtept>
+  <rtept lat="41.188840" lon="-124.108360"></rtept>
+  <rtept lat="41.168670" lon="-124.102180"></rtept>
+  <rtept lat="41.156280" lon="-124.127300"><name>Big Lagoon Beach &amp; CG</name></rtept>
+  <rtept lat="41.148880" lon="-124.135810"></rtept>
+  <rtept lat="41.140280" lon="-124.137980"></rtept>
+  <rtept lat="41.137400" lon="-124.143470"></rtept>
+  <rtept lat="41.136550" lon="-124.147550"></rtept>
+  <rtept lat="41.133480" lon="-124.153510"><name>Sue-meg SP &amp; CG</name></rtept>
+  <rtept lat="41.108390" lon="-124.159860"></rtept>
+  <rtept lat="41.090910" lon="-124.152050"></rtept>
+  <rtept lat="41.079510" lon="-124.152570"></rtept>
+  <rtept lat="41.069810" lon="-124.148770"></rtept>
+  <rtept lat="41.057500" lon="-124.149000"><name>Trinidad State Beach</name></rtept>
+  <rtept lat="41.056960" lon="-124.147580"></rtept>
+  <rtept lat="41.057730" lon="-124.147940"></rtept>
+  <rtept lat="41.058460" lon="-124.145290"></rtept>
+  <rtept lat="41.059330" lon="-124.141980"></rtept>
+  <rtept lat="41.061660" lon="-124.140210"><name>Trinidad - Food, Gas, Lodging</name></rtept>
+  <rtept lat="41.056850" lon="-124.135940"></rtept>
+  <rtept lat="41.054770" lon="-124.131930"></rtept>
+  <rtept lat="41.050800" lon="-124.126280"></rtept>
+  <rtept lat="41.044860" lon="-124.122270"></rtept>
+  <rtept lat="41.040050" lon="-124.119610"><name>Tepona Point Viewpoint</name></rtept>
+  <rtept lat="41.039900" lon="-124.119290"></rtept>
+  <rtept lat="41.039580" lon="-124.118710"></rtept>
+  <rtept lat="41.039210" lon="-124.118410"></rtept>
+  <rtept lat="41.038890" lon="-124.118260"></rtept>
+  <rtept lat="41.036570" lon="-124.117690"><name>Houda Point Beach</name></rtept>
+  <rtept lat="41.035070" lon="-124.116650"></rtept>
+  <rtept lat="41.034210" lon="-124.115120"></rtept>
+  <rtept lat="41.034470" lon="-124.112830"></rtept>
+  <rtept lat="41.030910" lon="-124.109970"></rtept>
+  <rtept lat="41.029490" lon="-124.109320"><name>Moonstone Beach</name></rtept>
+  <rtept lat="41.028270" lon="-124.107870"></rtept>
+  <rtept lat="41.023660" lon="-124.107310"></rtept>
+  <rtept lat="41.018500" lon="-124.106950"></rtept>
+  <rtept lat="41.013740" lon="-124.108760"></rtept>
+  <rtept lat="41.006550" lon="-124.111950"><name>Clam Beach Park &amp; Beach</name></rtept>
+  <rtept lat="41.003980" lon="-124.112690"></rtept>
+  <rtept lat="40.996990" lon="-124.113720"></rtept>
+  <rtept lat="40.996990" lon="-124.113720"></rtept>
+  <rtept lat="40.995470" lon="-124.114050"></rtept>
+  <rtept lat="40.995090" lon="-124.114250"><name>Clam Beach CG</name></rtept>
+  <rtept lat="40.991330" lon="-124.111370"></rtept>
+  <rtept lat="40.983570" lon="-124.103500"></rtept>
+  <rtept lat="40.967620" lon="-124.100670"></rtept>
+  <rtept lat="40.953700" lon="-124.100840"></rtept>
+  <rtept lat="40.942000" lon="-124.100970"><name>McKinleyville - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.939620" lon="-124.100950"></rtept>
+  <rtept lat="40.938060" lon="-124.100920"></rtept>
+  <rtept lat="40.936180" lon="-124.100920"></rtept>
+  <rtept lat="40.933580" lon="-124.100920"></rtept>
+  <rtept lat="40.929810" lon="-124.133650"><name>Mad River Park &amp; Beach</name></rtept>
+  <rtept lat="40.920000" lon="-124.097940"></rtept>
+  <rtept lat="40.915510" lon="-124.092680"></rtept>
+  <rtept lat="40.901070" lon="-124.091350"></rtept>
+  <rtept lat="40.897660" lon="-124.105790"></rtept>
+  <rtept lat="40.870880" lon="-124.134960"><name>Water Buffalo Ranch</name></rtept>
+  <rtept lat="40.864630" lon="-124.152010"></rtept>
+  <rtept lat="40.862120" lon="-124.157140"></rtept>
+  <rtept lat="40.851850" lon="-124.163850"></rtept>
+  <rtept lat="40.842580" lon="-124.167370"></rtept>
+  <rtept lat="40.820020" lon="-124.181670"><name>Samoa Cookhouse &amp; Museum</name></rtept>
+  <rtept lat="40.808010" lon="-124.154030"></rtept>
+  <rtept lat="40.804560" lon="-124.165530"></rtept>
+  <rtept lat="40.778500" lon="-124.188580"></rtept>
+  <rtept lat="40.755820" lon="-124.190550"></rtept>
+  <rtept lat="40.753840" lon="-124.233140"><name>South Jetty</name></rtept>
+  <rtept lat="40.700610" lon="-124.204150"></rtept>
+  <rtept lat="40.678060" lon="-124.197930"></rtept>
+  <rtept lat="40.669220" lon="-124.208290"></rtept>
+  <rtept lat="40.677180" lon="-124.226620"></rtept>
+  <rtept lat="40.696920" lon="-124.275880"><name>Table Bluff Beach</name></rtept>
+  <rtept lat="40.682220" lon="-124.254750"></rtept>
+  <rtept lat="40.678810" lon="-124.254860"></rtept>
+  <rtept lat="40.674460" lon="-124.254830"></rtept>
+  <rtept lat="40.671880" lon="-124.254580"></rtept>
+  <rtept lat="40.643190" lon="-124.303060"><name>Crab Park</name></rtept>
+  <rtept lat="40.656970" lon="-124.241380"></rtept>
+  <rtept lat="40.653000" lon="-124.234900"></rtept>
+  <rtept lat="40.646990" lon="-124.230590"></rtept>
+  <rtept lat="40.645470" lon="-124.226360"></rtept>
+  <rtept lat="40.640280" lon="-124.224900"><name>Loleta - Food</name></rtept>
+  <rtept lat="40.633260" lon="-124.222520"></rtept>
+  <rtept lat="40.622590" lon="-124.216060"></rtept>
+  <rtept lat="40.620190" lon="-124.210890"></rtept>
+  <rtept lat="40.617030" lon="-124.203190"></rtept>
+  <rtept lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></rtept>
+  <rtept lat="40.599630" lon="-124.214110"></rtept>
+  <rtept lat="40.596460" lon="-124.233910"></rtept>
+  <rtept lat="40.594780" lon="-124.247780"></rtept>
+  <rtept lat="40.585470" lon="-124.259040"></rtept>
+  <rtept lat="40.573710" lon="-124.349320"><name>Centerville Beach</name></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577180" lon="-124.262900"><name>Ferndale - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.577150" lon="-124.263060"></rtept>
+  <rtept lat="40.561540" lon="-124.353010"><name>Fleener Creek Viewpoint</name></rtept>
   </rte>
 </gpx>

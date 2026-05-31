@@ -3,36 +3,36 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>LCX1 - Fort Bragg to Shelter Cove</name><time>2026-05-31T21:06:23Z</time></metadata>
-  <wpt lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></wpt>
-  <wpt lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></wpt>
+  <metadata><name>LCX1 - Fort Bragg to Shelter Cove</name><time>2026-05-31T21:09:24Z</time></metadata>
   <wpt lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></wpt>
   <wpt lat="39.452050" lon="-123.809570"><name>Glass Beach</name></wpt>
-  <wpt lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></wpt>
-  <wpt lat="39.490070" lon="-123.786030"><name>MacKerricher SP & CG</name></wpt>
+  <wpt lat="39.490070" lon="-123.786030"><name>MacKerricher SP &amp; CG</name></wpt>
+  <wpt lat="39.638360" lon="-123.784880"><name>Westport - Food &amp; Lodging</name></wpt>
+  <wpt lat="39.680780" lon="-123.790810"><name>Westport-Union CG</name></wpt>
+  <wpt lat="39.835430" lon="-123.843680"><name>Usal Beach &amp; CG</name></wpt>
   <wpt lat="39.942630" lon="-123.964630"><name>Needle Rock Visitor Center</name></wpt>
   <wpt lat="39.944740" lon="-123.967500"><name>Rock Arch Viewpoint</name></wpt>
+  <wpt lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></wpt>
+  <wpt lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></wpt>
+  <wpt lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></wpt>
   <wpt lat="40.028310" lon="-124.076580"><name>Seal Rock</name></wpt>
   <wpt lat="40.036530" lon="-124.052150"><name>Shelter Cove - Food, Gas, Lodging</name></wpt>
   <wpt lat="40.024560" lon="-124.065970"><name>Shelter Cove Beach</name></wpt>
-  <wpt lat="39.835430" lon="-123.843680"><name>Usal Beach & CG</name></wpt>
-  <wpt lat="39.638360" lon="-123.784880"><name>Westport - Food & Lodging</name></wpt>
-  <wpt lat="39.680780" lon="-123.790810"><name>Westport-Union CG</name></wpt>
   <rte>
     <name>LCX1 - Fort Bragg to Shelter Cove</name>
-    <rtept lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></rtept>
-    <rtept lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></rtept>
-    <rtept lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></rtept>
-    <rtept lat="39.452050" lon="-123.809570"><name>Glass Beach</name></rtept>
-    <rtept lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></rtept>
-    <rtept lat="39.490070" lon="-123.786030"><name>MacKerricher SP & CG</name></rtept>
-    <rtept lat="39.942630" lon="-123.964630"><name>Needle Rock Visitor Center</name></rtept>
-    <rtept lat="39.944740" lon="-123.967500"><name>Rock Arch Viewpoint</name></rtept>
-    <rtept lat="40.028310" lon="-124.076580"><name>Seal Rock</name></rtept>
-    <rtept lat="40.036530" lon="-124.052150"><name>Shelter Cove - Food, Gas, Lodging</name></rtept>
-    <rtept lat="40.024560" lon="-124.065970"><name>Shelter Cove Beach</name></rtept>
-    <rtept lat="39.835430" lon="-123.843680"><name>Usal Beach & CG</name></rtept>
-    <rtept lat="39.638360" lon="-123.784880"><name>Westport - Food & Lodging</name></rtept>
-    <rtept lat="39.680780" lon="-123.790810"><name>Westport-Union CG</name></rtept>
+  <rtept lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></rtept>
+  <rtept lat="39.452050" lon="-123.809570"><name>Glass Beach</name></rtept>
+  <rtept lat="39.490070" lon="-123.786030"><name>MacKerricher SP &amp; CG</name></rtept>
+  <rtept lat="39.638360" lon="-123.784880"><name>Westport - Food &amp; Lodging</name></rtept>
+  <rtept lat="39.680780" lon="-123.790810"><name>Westport-Union CG</name></rtept>
+  <rtept lat="39.835430" lon="-123.843680"><name>Usal Beach &amp; CG</name></rtept>
+  <rtept lat="39.942630" lon="-123.964630"><name>Needle Rock Visitor Center</name></rtept>
+  <rtept lat="39.944740" lon="-123.967500"><name>Rock Arch Viewpoint</name></rtept>
+  <rtept lat="40.045260" lon="-124.079540"><name>Black Sands Beach</name></rtept>
+  <rtept lat="40.022620" lon="-124.069750"><name>Cape Mendocino Lighthouse</name></rtept>
+  <rtept lat="40.038860" lon="-124.079470"><name>Little Black Sands Beach</name></rtept>
+  <rtept lat="40.028310" lon="-124.076580"><name>Seal Rock</name></rtept>
+  <rtept lat="40.036530" lon="-124.052150"><name>Shelter Cove - Food, Gas, Lodging</name></rtept>
+  <rtept lat="40.024560" lon="-124.065970"><name>Shelter Cove Beach</name></rtept>
   </rte>
 </gpx>

@@ -3,21 +3,27 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>LCX5 - Ferndale to Fort Bragg</name><time>2026-05-31T21:06:23Z</time></metadata>
-  <wpt lat="40.400950" lon="-123.950120"><name>Eternal Tree House</name></wpt>
+  <metadata><name>LCX5 - Ferndale to Fort Bragg</name><time>2026-05-31T21:09:24Z</time></metadata>
   <wpt lat="40.577180" lon="-124.262900"><name>Ferndale - Food, Gas, Lodging</name></wpt>
-  <wpt lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></wpt>
-  <wpt lat="40.352770" lon="-123.924260"><name>Founders Grove</name></wpt>
-  <wpt lat="39.452050" lon="-123.809570"><name>Glass Beach</name></wpt>
+  <wpt lat="40.573710" lon="-124.349320"><name>Centerville Beach</name></wpt>
+  <wpt lat="40.561540" lon="-124.353010"><name>Fleener Creek Viewpoint</name></wpt>
+  <wpt lat="40.640280" lon="-124.224900"><name>Loleta - Food</name></wpt>
   <wpt lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></wpt>
-  <wpt lat="39.875410" lon="-123.579200"><name>Honor Farm Stand</name></wpt>
-  <wpt lat="40.416970" lon="-123.967470"><name>Immortal Tree</name></wpt>
-  <wpt lat="39.686250" lon="-123.480620"><name>Laytonville - Food, Gas, Lodging</name></wpt>
-  <wpt lat="39.490070" lon="-123.786030"><name>MacKerricher SP & CG</name></wpt>
-  <wpt lat="40.325870" lon="-123.839190"><name>McCann Eel River Access</name></wpt>
-  <wpt lat="40.048670" lon="-123.642430"><name>New Harris General Store - Food & Gas</name></wpt>
-  <wpt lat="40.278540" lon="-123.795810"><name>Richardson Creative Exhibit</name></wpt>
+  <wpt lat="40.479530" lon="-124.222670"><name>Bear River Ridge Tree Canopy</name></wpt>
   <wpt lat="40.497830" lon="-124.105810"><name>Rio Dell - Food, Gas, Lodging</name></wpt>
   <wpt lat="40.484830" lon="-124.101310"><name>Scotia - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.486290" lon="-123.904890"><name>Grizzly Creek Redwoods SP &amp; CG</name></wpt>
   <wpt lat="40.446050" lon="-123.984790"><name>Seasonal Bridge (open June 15 to Oct 31)</name></wpt>
+  <wpt lat="40.416970" lon="-123.967470"><name>Immortal Tree</name></wpt>
+  <wpt lat="40.400950" lon="-123.950120"><name>Eternal Tree House</name></wpt>
+  <wpt lat="40.352770" lon="-123.924260"><name>Founders Grove</name></wpt>
+  <wpt lat="40.325870" lon="-123.839190"><name>McCann Eel River Access</name></wpt>
+  <wpt lat="40.278540" lon="-123.795810"><name>Richardson Creative Exhibit</name></wpt>
+  <wpt lat="40.099280" lon="-123.795080"><name>Garberville - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.048670" lon="-123.642430"><name>New Harris General Store - Food &amp; Gas</name></wpt>
+  <wpt lat="39.875410" lon="-123.579200"><name>Honor Farm Stand</name></wpt>
+  <wpt lat="39.686250" lon="-123.480620"><name>Laytonville - Food, Gas, Lodging</name></wpt>
+  <wpt lat="39.490070" lon="-123.786030"><name>MacKerricher SP &amp; CG</name></wpt>
+  <wpt lat="39.441710" lon="-123.806100"><name>Fort Bragg - Food, Gas, Lodging</name></wpt>
+  <wpt lat="39.452050" lon="-123.809570"><name>Glass Beach</name></wpt>
 </gpx>

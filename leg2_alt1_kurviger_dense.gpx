@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX2 Alternate (Harder) — Saddle Mountain</name><time>2026-05-31T21:09:00Z</time></metadata>
+  <wpt lat="40.105290" lon="-124.067240"><name>Start</name></wpt>
+  <wpt lat="40.108300" lon="-124.076420"></wpt>
+  <wpt lat="40.126180" lon="-124.084290"></wpt>
+  <wpt lat="40.141160" lon="-124.090510"></wpt>
+  <wpt lat="40.141640" lon="-124.084760"></wpt>
+  <wpt lat="40.135710" lon="-124.071470"><name>End</name></wpt>
+  <rte>
+    <name>LCX2 Alternate (Harder) — Saddle Mountain</name>
+    <rtept lat="40.105290" lon="-124.067240"><name>Start</name></rtept>
+    <rtept lat="40.108300" lon="-124.076420"></rtept>
+    <rtept lat="40.126180" lon="-124.084290"></rtept>
+    <rtept lat="40.141160" lon="-124.090510"></rtept>
+    <rtept lat="40.141640" lon="-124.084760"></rtept>
+    <rtept lat="40.135710" lon="-124.071470"><name>End</name></rtept>
+  </rte>
+</gpx>

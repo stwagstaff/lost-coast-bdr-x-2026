@@ -1,17 +1,8 @@
 {
   "leg1": {
     "name": "LCX1 - Fort Bragg to Shelter Cove",
+    "waypoint_count": 14,
     "named_waypoints": [
-      {
-        "name": "Black Sands Beach",
-        "lat": 40.04526,
-        "lon": -124.07954
-      },
-      {
-        "name": "Cape Mendocino Lighthouse",
-        "lat": 40.02262,
-        "lon": -124.06975
-      },
       {
         "name": "Fort Bragg - Food, Gas, Lodging",
         "lat": 39.44171,
@@ -23,14 +14,24 @@
         "lon": -123.80957
       },
       {
-        "name": "Little Black Sands Beach",
-        "lat": 40.03886,
-        "lon": -124.07947
-      },
-      {
         "name": "MacKerricher SP & CG",
         "lat": 39.49007,
         "lon": -123.78603
+      },
+      {
+        "name": "Westport - Food & Lodging",
+        "lat": 39.63836,
+        "lon": -123.78488
+      },
+      {
+        "name": "Westport-Union CG",
+        "lat": 39.68078,
+        "lon": -123.79081
+      },
+      {
+        "name": "Usal Beach & CG",
+        "lat": 39.83543,
+        "lon": -123.84368
       },
       {
         "name": "Needle Rock Visitor Center",
@@ -43,6 +44,21 @@
         "lon": -123.9675
       },
       {
+        "name": "Black Sands Beach",
+        "lat": 40.04526,
+        "lon": -124.07954
+      },
+      {
+        "name": "Cape Mendocino Lighthouse",
+        "lat": 40.02262,
+        "lon": -124.06975
+      },
+      {
+        "name": "Little Black Sands Beach",
+        "lat": 40.03886,
+        "lon": -124.07947
+      },
+      {
         "name": "Seal Rock",
         "lat": 40.02831,
         "lon": -124.07658
@@ -56,55 +72,33 @@
         "name": "Shelter Cove Beach",
         "lat": 40.02456,
         "lon": -124.06597
-      },
-      {
-        "name": "Usal Beach & CG",
-        "lat": 39.83543,
-        "lon": -123.84368
-      },
-      {
-        "name": "Westport - Food & Lodging",
-        "lat": 39.63836,
-        "lon": -123.78488
-      },
-      {
-        "name": "Westport-Union CG",
-        "lat": 39.68078,
-        "lon": -123.79081
       }
     ],
-    "track_points": 3307,
-    "intermediates": [
-      {
-        "lat": 39.77667,
-        "lon": -123.83521
-      },
-      {
-        "lat": 39.85557,
-        "lon": -123.86052
-      },
-      {
-        "lat": 39.91979,
-        "lon": -123.90017
-      },
-      {
-        "lat": 39.96855,
-        "lon": -123.96574
-      }
-    ]
+    "track_points": 3307
   },
   "leg2": {
     "name": "LCX2 - Shelter Cove to Rio Dell",
+    "waypoint_count": 15,
     "named_waypoints": [
       {
-        "name": "A W Way Park & CG",
-        "lat": 40.26925,
-        "lon": -124.22999
+        "name": "Cape Mendocino Lighthouse",
+        "lat": 40.02262,
+        "lon": -124.06975
       },
       {
-        "name": "Bear River Ridge Tree Canopy",
-        "lat": 40.47953,
-        "lon": -124.22267
+        "name": "Seal Rock",
+        "lat": 40.02831,
+        "lon": -124.07658
+      },
+      {
+        "name": "Shelter Cove Beach",
+        "lat": 40.02456,
+        "lon": -124.06597
+      },
+      {
+        "name": "Shelter Cove - Food, Gas, Lodging",
+        "lat": 40.03653,
+        "lon": -124.05215
       },
       {
         "name": "Black Sands Beach",
@@ -112,14 +106,14 @@
         "lon": -124.07954
       },
       {
-        "name": "Cape Mendocino Lighthouse",
-        "lat": 40.02262,
-        "lon": -124.06975
+        "name": "Little Black Sands Beach",
+        "lat": 40.03886,
+        "lon": -124.07947
       },
       {
-        "name": "Guthrie Creek Trail",
-        "lat": 40.54358,
-        "lon": -124.35745
+        "name": "Saddle Mtn Viewpoint",
+        "lat": 40.10393,
+        "lon": -124.07663
       },
       {
         "name": "Honeydew Store",
@@ -127,14 +121,9 @@
         "lon": -124.12369
       },
       {
-        "name": "Kinsey Ridge Viewpoint",
-        "lat": 40.18867,
-        "lon": -124.2055
-      },
-      {
-        "name": "Little Black Sands Beach",
-        "lat": 40.03886,
-        "lon": -124.07947
+        "name": "A W Way Park & CG",
+        "lat": 40.26925,
+        "lon": -124.22999
       },
       {
         "name": "Petrolia - Food & Gas",
@@ -147,79 +136,32 @@
         "lon": -124.28713
       },
       {
-        "name": "Rio Dell - Food, Gas, Lodging",
-        "lat": 40.49783,
-        "lon": -124.10581
-      },
-      {
-        "name": "Saddle Mtn Viewpoint",
-        "lat": 40.10393,
-        "lon": -124.07663
-      },
-      {
-        "name": "Scotia - Food, Gas, Lodging",
-        "lat": 40.48483,
-        "lon": -124.10131
-      },
-      {
-        "name": "Seal Rock",
-        "lat": 40.02831,
-        "lon": -124.07658
-      },
-      {
-        "name": "Shelter Cove - Food, Gas, Lodging",
-        "lat": 40.03653,
-        "lon": -124.05215
-      },
-      {
-        "name": "Shelter Cove Beach",
-        "lat": 40.02456,
-        "lon": -124.06597
-      },
-      {
         "name": "Steamboat Rock Viewpoint",
         "lat": 40.41776,
         "lon": -124.39818
+      },
+      {
+        "name": "Bear River Ridge Tree Canopy",
+        "lat": 40.47953,
+        "lon": -124.22267
+      },
+      {
+        "name": "Scotia - Food, Gas, Lodging",
+        "lat": 40.48483,
+        "lon": -124.10131
+      },
+      {
+        "name": "Rio Dell - Food, Gas, Lodging",
+        "lat": 40.49783,
+        "lon": -124.10581
       }
     ],
-    "track_points": 4299,
-    "intermediates": [
-      {
-        "lat": 40.14245,
-        "lon": -124.07386
-      },
-      {
-        "lat": 40.23183,
-        "lon": -124.13911
-      },
-      {
-        "lat": 40.36877,
-        "lon": -124.36212
-      },
-      {
-        "lat": 40.50769,
-        "lon": -124.28607
-      }
-    ]
+    "track_points": 4299
   },
   "leg3": {
     "name": "LCX3 - Rio Dell to Blue Lake",
+    "waypoint_count": 8,
     "named_waypoints": [
-      {
-        "name": "Bald Mtn Couch",
-        "lat": 40.88908,
-        "lon": -123.86656
-      },
-      {
-        "name": "Blue Lake Casino - Food, Gas, Lodging",
-        "lat": 40.88436,
-        "lon": -123.99812
-      },
-      {
-        "name": "Grizzly Creek Redwoods SP & CG",
-        "lat": 40.48629,
-        "lon": -123.90489
-      },
       {
         "name": "Rio Dell - Food, Gas, Lodging",
         "lat": 40.49783,
@@ -229,70 +171,11 @@
         "name": "Scotia - Food, Gas, Lodging",
         "lat": 40.48483,
         "lon": -124.10131
-      }
-    ],
-    "track_points": 2797,
-    "intermediates": [
-      {
-        "lat": 40.54328,
-        "lon": -123.91552
       },
       {
-        "lat": 40.59257,
-        "lon": -123.75888
-      },
-      {
-        "lat": 40.68342,
-        "lon": -123.86001
-      },
-      {
-        "lat": 40.75855,
-        "lon": -123.91621
-      }
-    ]
-  },
-  "leg4": {
-    "name": "LCX4 - Blue Lake to Ferndale",
-    "named_waypoints": [
-      {
-        "name": "Bald Mtn Couch",
-        "lat": 40.88908,
-        "lon": -123.86656
-      },
-      {
-        "name": "Big Lagoon Beach & CG",
-        "lat": 41.15628,
-        "lon": -124.1273
-      },
-      {
-        "name": "Blue Lake Casino - Food, Gas, Lodging",
-        "lat": 40.88436,
-        "lon": -123.99812
-      },
-      {
-        "name": "Clam Beach CG",
-        "lat": 40.99509,
-        "lon": -124.11425
-      },
-      {
-        "name": "Clam Beach Park & Beach",
-        "lat": 41.00655,
-        "lon": -124.11195
-      },
-      {
-        "name": "Dolason Prairie Picnic Area",
-        "lat": 41.20547,
-        "lon": -123.95039
-      },
-      {
-        "name": "Dry Lagoon Beach Access",
-        "lat": 41.22349,
-        "lon": -124.09334
-      },
-      {
-        "name": "Ferndale - Food, Gas, Lodging",
-        "lat": 40.57718,
-        "lon": -124.2629
+        "name": "Bear River Ridge Tree Canopy",
+        "lat": 40.47953,
+        "lon": -124.22267
       },
       {
         "name": "Historic Fernbridge",
@@ -300,14 +183,51 @@
         "lon": -124.20318
       },
       {
-        "name": "Houda Point Beach",
-        "lat": 41.03657,
-        "lon": -124.11769
+        "name": "Seasonal Bridge (open June 15 to Oct 31)",
+        "lat": 40.44605,
+        "lon": -123.98479
       },
       {
-        "name": "Loleta - Food",
-        "lat": 40.64028,
-        "lon": -124.2249
+        "name": "Grizzly Creek Redwoods SP & CG",
+        "lat": 40.48629,
+        "lon": -123.90489
+      },
+      {
+        "name": "Bald Mtn Couch",
+        "lat": 40.88908,
+        "lon": -123.86656
+      },
+      {
+        "name": "Blue Lake Casino - Food, Gas, Lodging",
+        "lat": 40.88436,
+        "lon": -123.99812
+      }
+    ],
+    "track_points": 2797
+  },
+  "leg4": {
+    "name": "LCX4 - Blue Lake to Ferndale",
+    "waypoint_count": 33,
+    "named_waypoints": [
+      {
+        "name": "Blue Lake Casino - Food, Gas, Lodging",
+        "lat": 40.88436,
+        "lon": -123.99812
+      },
+      {
+        "name": "Bald Mtn Couch",
+        "lat": 40.88908,
+        "lon": -123.86656
+      },
+      {
+        "name": "Hoopa - Food & Gas",
+        "lat": 41.06468,
+        "lon": -123.68557
+      },
+      {
+        "name": "Schoolhouse Peak Lookout",
+        "lat": 41.15143,
+        "lon": -123.88274
       },
       {
         "name": "Lyons Ranch Trailhead",
@@ -315,19 +235,14 @@
         "lon": -123.8933
       },
       {
-        "name": "Mad River Park & Beach",
-        "lat": 40.92981,
-        "lon": -124.13365
+        "name": "Dolason Prairie Picnic Area",
+        "lat": 41.20547,
+        "lon": -123.95039
       },
       {
-        "name": "McKinleyville - Food, Gas, Lodging",
-        "lat": 40.942,
-        "lon": -124.10097
-      },
-      {
-        "name": "Moonstone Beach",
-        "lat": 41.02949,
-        "lon": -124.10932
+        "name": "Redwood Creek Overlook",
+        "lat": 41.25793,
+        "lon": -123.9888
       },
       {
         "name": "Orick - Food & Gas",
@@ -340,26 +255,6 @@
         "lon": -124.08856
       },
       {
-        "name": "Redwood Creek Overlook",
-        "lat": 41.25793,
-        "lon": -123.9888
-      },
-      {
-        "name": "Samoa Cookhouse & Museum",
-        "lat": 40.82002,
-        "lon": -124.18167
-      },
-      {
-        "name": "Schoolhouse Peak Lookout",
-        "lat": 41.15143,
-        "lon": -123.88274
-      },
-      {
-        "name": "South Jetty",
-        "lat": 40.75384,
-        "lon": -124.23314
-      },
-      {
         "name": "Stone Lagoon Beach Access",
         "lat": 41.25833,
         "lon": -124.09604
@@ -370,24 +265,19 @@
         "lon": -124.08356
       },
       {
+        "name": "Dry Lagoon Beach Access",
+        "lat": 41.22349,
+        "lon": -124.09334
+      },
+      {
+        "name": "Big Lagoon Beach & CG",
+        "lat": 41.15628,
+        "lon": -124.1273
+      },
+      {
         "name": "Sue-meg SP & CG",
         "lat": 41.13348,
         "lon": -124.15351
-      },
-      {
-        "name": "Table Bluff Beach",
-        "lat": 40.69692,
-        "lon": -124.27588
-      },
-      {
-        "name": "Tepona Point Viewpoint",
-        "lat": 41.04005,
-        "lon": -124.11961
-      },
-      {
-        "name": "Trinidad - Food, Gas, Lodging",
-        "lat": 41.06166,
-        "lon": -124.14021
       },
       {
         "name": "Trinidad State Beach",
@@ -395,58 +285,74 @@
         "lon": -124.149
       },
       {
+        "name": "Trinidad - Food, Gas, Lodging",
+        "lat": 41.06166,
+        "lon": -124.14021
+      },
+      {
+        "name": "Tepona Point Viewpoint",
+        "lat": 41.04005,
+        "lon": -124.11961
+      },
+      {
+        "name": "Houda Point Beach",
+        "lat": 41.03657,
+        "lon": -124.11769
+      },
+      {
+        "name": "Moonstone Beach",
+        "lat": 41.02949,
+        "lon": -124.10932
+      },
+      {
+        "name": "Clam Beach Park & Beach",
+        "lat": 41.00655,
+        "lon": -124.11195
+      },
+      {
+        "name": "Clam Beach CG",
+        "lat": 40.99509,
+        "lon": -124.11425
+      },
+      {
+        "name": "McKinleyville - Food, Gas, Lodging",
+        "lat": 40.942,
+        "lon": -124.10097
+      },
+      {
+        "name": "Mad River Park & Beach",
+        "lat": 40.92981,
+        "lon": -124.13365
+      },
+      {
         "name": "Water Buffalo Ranch",
         "lat": 40.87088,
         "lon": -124.13496
-      }
-    ],
-    "track_points": 4314,
-    "intermediates": [
-      {
-        "lat": 40.99121,
-        "lon": -123.7773
       },
       {
-        "lat": 41.08641,
-        "lon": -123.76368
+        "name": "Samoa Cookhouse & Museum",
+        "lat": 40.82002,
+        "lon": -124.18167
       },
       {
-        "lat": 41.15468,
-        "lon": -123.81405
+        "name": "South Jetty",
+        "lat": 40.75384,
+        "lon": -124.23314
       },
       {
-        "lat": 41.10839,
-        "lon": -124.15986
-      }
-    ]
-  },
-  "leg5": {
-    "name": "LCX5 - Ferndale to Fort Bragg",
-    "named_waypoints": [
-      {
-        "name": "Eternal Tree House",
-        "lat": 40.40095,
-        "lon": -123.95012
+        "name": "Table Bluff Beach",
+        "lat": 40.69692,
+        "lon": -124.27588
       },
       {
-        "name": "Ferndale - Food, Gas, Lodging",
-        "lat": 40.57718,
-        "lon": -124.2629
+        "name": "Crab Park",
+        "lat": 40.64319,
+        "lon": -124.30306
       },
       {
-        "name": "Fort Bragg - Food, Gas, Lodging",
-        "lat": 39.44171,
-        "lon": -123.8061
-      },
-      {
-        "name": "Founders Grove",
-        "lat": 40.35277,
-        "lon": -123.92426
-      },
-      {
-        "name": "Glass Beach",
-        "lat": 39.45205,
-        "lon": -123.80957
+        "name": "Loleta - Food",
+        "lat": 40.64028,
+        "lon": -124.2249
       },
       {
         "name": "Historic Fernbridge",
@@ -454,39 +360,56 @@
         "lon": -124.20318
       },
       {
-        "name": "Honor Farm Stand",
-        "lat": 39.87541,
-        "lon": -123.5792
+        "name": "Centerville Beach",
+        "lat": 40.57371,
+        "lon": -124.34932
       },
       {
-        "name": "Immortal Tree",
-        "lat": 40.41697,
-        "lon": -123.96747
+        "name": "Ferndale - Food, Gas, Lodging",
+        "lat": 40.57718,
+        "lon": -124.2629
       },
       {
-        "name": "Laytonville - Food, Gas, Lodging",
-        "lat": 39.68625,
-        "lon": -123.48062
+        "name": "Fleener Creek Viewpoint",
+        "lat": 40.56154,
+        "lon": -124.35301
+      }
+    ],
+    "track_points": 4314
+  },
+  "leg5": {
+    "name": "LCX5 - Ferndale to Fort Bragg",
+    "waypoint_count": 22,
+    "named_waypoints": [
+      {
+        "name": "Ferndale - Food, Gas, Lodging",
+        "lat": 40.57718,
+        "lon": -124.2629
       },
       {
-        "name": "MacKerricher SP & CG",
-        "lat": 39.49007,
-        "lon": -123.78603
+        "name": "Centerville Beach",
+        "lat": 40.57371,
+        "lon": -124.34932
       },
       {
-        "name": "McCann Eel River Access",
-        "lat": 40.32587,
-        "lon": -123.83919
+        "name": "Fleener Creek Viewpoint",
+        "lat": 40.56154,
+        "lon": -124.35301
       },
       {
-        "name": "New Harris General Store - Food & Gas",
-        "lat": 40.04867,
-        "lon": -123.64243
+        "name": "Loleta - Food",
+        "lat": 40.64028,
+        "lon": -124.2249
       },
       {
-        "name": "Richardson Creative Exhibit",
-        "lat": 40.27854,
-        "lon": -123.79581
+        "name": "Historic Fernbridge",
+        "lat": 40.61383,
+        "lon": -124.20318
+      },
+      {
+        "name": "Bear River Ridge Tree Canopy",
+        "lat": 40.47953,
+        "lon": -124.22267
       },
       {
         "name": "Rio Dell - Food, Gas, Lodging",
@@ -499,29 +422,76 @@
         "lon": -124.10131
       },
       {
+        "name": "Grizzly Creek Redwoods SP & CG",
+        "lat": 40.48629,
+        "lon": -123.90489
+      },
+      {
         "name": "Seasonal Bridge (open June 15 to Oct 31)",
         "lat": 40.44605,
         "lon": -123.98479
+      },
+      {
+        "name": "Immortal Tree",
+        "lat": 40.41697,
+        "lon": -123.96747
+      },
+      {
+        "name": "Eternal Tree House",
+        "lat": 40.40095,
+        "lon": -123.95012
+      },
+      {
+        "name": "Founders Grove",
+        "lat": 40.35277,
+        "lon": -123.92426
+      },
+      {
+        "name": "McCann Eel River Access",
+        "lat": 40.32587,
+        "lon": -123.83919
+      },
+      {
+        "name": "Richardson Creative Exhibit",
+        "lat": 40.27854,
+        "lon": -123.79581
+      },
+      {
+        "name": "Garberville - Food, Gas, Lodging",
+        "lat": 40.09928,
+        "lon": -123.79508
+      },
+      {
+        "name": "New Harris General Store - Food & Gas",
+        "lat": 40.04867,
+        "lon": -123.64243
+      },
+      {
+        "name": "Honor Farm Stand",
+        "lat": 39.87541,
+        "lon": -123.5792
+      },
+      {
+        "name": "Laytonville - Food, Gas, Lodging",
+        "lat": 39.68625,
+        "lon": -123.48062
+      },
+      {
+        "name": "MacKerricher SP & CG",
+        "lat": 39.49007,
+        "lon": -123.78603
+      },
+      {
+        "name": "Fort Bragg - Food, Gas, Lodging",
+        "lat": 39.44171,
+        "lon": -123.8061
+      },
+      {
+        "name": "Glass Beach",
+        "lat": 39.45205,
+        "lon": -123.80957
       }
     ],
-    "track_points": 7269,
-    "intermediates": [
-      {
-        "lat": 40.34016,
-        "lon": -123.87545
-      },
-      {
-        "lat": 40.15758,
-        "lon": -123.70891
-      },
-      {
-        "lat": 39.97753,
-        "lon": -123.62434
-      },
-      {
-        "lat": 39.77709,
-        "lon": -123.54382
-      }
-    ]
+    "track_points": 7269
   }
 }
