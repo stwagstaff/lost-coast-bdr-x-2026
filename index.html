@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1a1a2e">
+  <title>Lost Coast BDR-X 2026 · MotoMap</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0f0f1a; color: #e8e8f0; font-size: 16px; line-height: 1.5; }
+    header { background: #1a1a2e; border-bottom: 3px solid #e74c3c; padding: 18px 16px 14px; position: sticky; top: 0; z-index: 10; }
+    header h1 { font-size: 1.35rem; color: #e74c3c; letter-spacing: 1px; }
+    header p { font-size: 0.8rem; color: #666; margin-top: 3px; }
+    .day-card { margin: 16px; background: #1a1a2e; border-radius: 12px; overflow: hidden; border: 1px solid #2a2a4e; }
+    .day-header { padding: 13px 16px; background: #16213e; border-bottom: 1px solid #2a2a4e; }
+    .day-header h2 { font-size: 0.95rem; color: #e74c3c; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .badge { font-size: 0.6rem; padding: 2px 6px; border-radius: 4px; font-weight: 700; }
+    .badge-offroad { background: #e65100; color: #fff; }
+    .badge-verified { background: #1565c0; color: #fff; }
+    .subtitle { font-size: 1.08rem; font-weight: 700; color: #fff; margin-top: 5px; }
+    .meta { font-size: 0.8rem; color: #999; margin-top: 3px; }
+    .thumbs { border-bottom: 1px solid #2a2a4e; }
+    .thumb-block { border-bottom: 1px solid #111; }
+    .thumb-block:last-child { border-bottom: none; }
+    .thumb-label { background: #0d1117; color: #888; font-size: 0.75rem; padding: 6px 12px; font-weight: 600; letter-spacing: 0.3px; }
+    .thumb-block img { width: 100%; height: auto; display: block; }
+    .day-info { padding: 14px 16px 18px; }
+    .prose { font-size: 0.9rem; color: #ccc; line-height: 1.7; margin-bottom: 12px; }
+    .fuel { font-size: 0.86rem; color: #bbb; margin-bottom: 6px; }
+    .hazards { font-size: 0.86rem; color: #f39c12; margin-bottom: 4px; }
+    .links { margin-top: 18px; display: flex; flex-direction: column; gap: 11px; }
+    .nav-link { display: block; padding: 15px 18px; border-radius: 10px; font-size: 1rem; font-weight: 700; text-decoration: none; text-align: center; color: #fff; }
+    .nav-link:active { opacity: 0.75; transform: scale(0.98); }
+    .placeholder-links { margin: 16px; padding: 15px; background: #1a1a2e; border-radius: 12px; border: 1px solid #2a2a4e; font-size: 0.86rem; color: #555; font-style: italic; text-align: center; }
+    .monitoring { margin: 16px; padding: 15px; background: #1a1a2e; border-radius: 12px; border: 1px solid #2a2a4e; font-size: 0.84rem; color: #999; }
+    .monitoring h3 { color: #e74c3c; margin-bottom: 9px; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; }
+    .monitoring p { margin-bottom: 5px; }
+    .monitoring a { color: #3498db; text-decoration: none; }
+
+    .upload-section { margin: 16px; padding: 16px; background: #1a1a2e; border-radius: 12px; border: 2px solid #e74c3c; }
+    .upload-section h3 { color: #e74c3c; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+    .upload-section p { font-size: 0.86rem; color: #aaa; margin-bottom: 8px; line-height: 1.6; }
+    .upload-hint { color: #666 !important; font-style: italic; font-size: 0.8rem !important; }
+    .upload-link { display: block; margin-top: 14px; padding: 16px 18px; background: #0088cc; border-radius: 10px; font-size: 1rem; font-weight: 700; text-decoration: none; text-align: center; color: #fff; }
+    .upload-link span { display: block; font-size: 0.75rem; font-weight: 400; opacity: 0.85; margin-top: 4px; }
+    .upload-link:active { opacity: 0.8; transform: scale(0.98); }
+    footer { text-align: center; padding: 18px; font-size: 0.7rem; color: #333; }
+    footer a { color: #333; text-decoration: none; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>🏍 LOST COAST BDR-X 2026</h1>
+  <p>Sean Wagstaff · A MotoMap Guide</p>
+</header>
+
+  <section class="day-card">
+    <div class="day-header">
+      <h2>LEG 1 — Route TBD</h2>
+      <p class="subtitle">Start → End</p>
+      <p class="meta">Distance TBD</p>
+    </div>
+    <div class="day-info">
+      <p class="prose">Route details coming soon. Send a map via Telegram to get started.</p>
+      <div class="links">
+      </div>
+    </div>
+  </section>
+
+<div class="placeholder-links">
+  No routes added yet — send a map via Telegram to get started
+</div>
+
+  <section class="upload-section">
+    <h3>➕ Add a Route</h3>
+    <p>Share a Google Maps, Waze or Garmin map link — or upload a GPX or KML file.</p>
+    <p>The description is important. Tell me what it is and when it's happening. I will add it to the planning guide automatically.</p>
+    <p class="upload-hint">You should see the results in a few minutes.</p>
+    <a href="#" onclick="var w=window.open('tg://resolve?domain=StwagstaffBot&start=newroute','_self');setTimeout(function(){window.location='https://t.me/StwagstaffBot?start=newroute';},500);return false;" class="upload-link">
+      📎 Open Telegram to share a map
+      <span>Paste a link or send a file — include a description</span>
+    </a>
+  </section>
+
+<footer><a href="https://github.com/stwagstaff/lost-coast-bdr-x-2026">MotoMap · Lost Coast BDR-X 2026</a></footer>
+</body>
+</html>
