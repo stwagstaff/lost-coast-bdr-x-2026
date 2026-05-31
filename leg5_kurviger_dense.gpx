@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX5 - Ferndale to Fort Bragg</name><time>2026-05-31T21:06:23Z</time></metadata>
+  <wpt lat="40.577150" lon="-124.263060"><name>Ferndale</name></wpt>
+  <wpt lat="40.340160" lon="-123.875450"></wpt>
+  <wpt lat="40.157580" lon="-123.708910"></wpt>
+  <wpt lat="39.977530" lon="-123.624340"></wpt>
+  <wpt lat="39.777090" lon="-123.543820"></wpt>
+  <wpt lat="39.441710" lon="-123.805980"><name>Fort</name></wpt>
+  <rte>
+    <name>LCX5 - Ferndale to Fort Bragg</name>
+    <rtept lat="40.577150" lon="-124.263060"><name>Ferndale</name></rtept>
+    <rtept lat="40.340160" lon="-123.875450"></rtept>
+    <rtept lat="40.157580" lon="-123.708910"></rtept>
+    <rtept lat="39.977530" lon="-123.624340"></rtept>
+    <rtept lat="39.777090" lon="-123.543820"></rtept>
+    <rtept lat="39.441710" lon="-123.805980"><name>Fort</name></rtept>
+  </rte>
+</gpx>

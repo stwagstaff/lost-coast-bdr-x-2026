@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX3 - Rio Dell to Blue Lake</name><time>2026-05-31T21:06:23Z</time></metadata>
+  <wpt lat="40.498220" lon="-124.105980"><name>Rio</name></wpt>
+  <wpt lat="40.543280" lon="-123.915520"></wpt>
+  <wpt lat="40.592570" lon="-123.758880"></wpt>
+  <wpt lat="40.683420" lon="-123.860010"></wpt>
+  <wpt lat="40.758550" lon="-123.916210"></wpt>
+  <wpt lat="40.884460" lon="-123.997940"><name>Blue</name></wpt>
+  <rte>
+    <name>LCX3 - Rio Dell to Blue Lake</name>
+    <rtept lat="40.498220" lon="-124.105980"><name>Rio</name></rtept>
+    <rtept lat="40.543280" lon="-123.915520"></rtept>
+    <rtept lat="40.592570" lon="-123.758880"></rtept>
+    <rtept lat="40.683420" lon="-123.860010"></rtept>
+    <rtept lat="40.758550" lon="-123.916210"></rtept>
+    <rtept lat="40.884460" lon="-123.997940"><name>Blue</name></rtept>
+  </rte>
+</gpx>

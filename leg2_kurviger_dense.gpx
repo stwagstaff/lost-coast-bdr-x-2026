@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX2 - Shelter Cove to Rio Dell</name><time>2026-05-31T21:06:23Z</time></metadata>
+  <wpt lat="40.036430" lon="-124.052130"><name>Shelter</name></wpt>
+  <wpt lat="40.142450" lon="-124.073860"></wpt>
+  <wpt lat="40.231830" lon="-124.139110"></wpt>
+  <wpt lat="40.368770" lon="-124.362120"></wpt>
+  <wpt lat="40.507690" lon="-124.286070"></wpt>
+  <wpt lat="40.498160" lon="-124.105980"><name>Rio</name></wpt>
+  <rte>
+    <name>LCX2 - Shelter Cove to Rio Dell</name>
+    <rtept lat="40.036430" lon="-124.052130"><name>Shelter</name></rtept>
+    <rtept lat="40.142450" lon="-124.073860"></rtept>
+    <rtept lat="40.231830" lon="-124.139110"></rtept>
+    <rtept lat="40.368770" lon="-124.362120"></rtept>
+    <rtept lat="40.507690" lon="-124.286070"></rtept>
+    <rtept lat="40.498160" lon="-124.105980"><name>Rio</name></rtept>
+  </rte>
+</gpx>

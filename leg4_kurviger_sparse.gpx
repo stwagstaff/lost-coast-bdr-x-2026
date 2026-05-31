@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX4 - Blue Lake to Ferndale</name><time>2026-05-31T21:06:23Z</time></metadata>
+  <wpt lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></wpt>
+  <wpt lat="41.156280" lon="-124.127300"><name>Big Lagoon Beach & CG</name></wpt>
+  <wpt lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.995090" lon="-124.114250"><name>Clam Beach CG</name></wpt>
+  <wpt lat="41.006550" lon="-124.111950"><name>Clam Beach Park & Beach</name></wpt>
+  <wpt lat="41.205470" lon="-123.950390"><name>Dolason Prairie Picnic Area</name></wpt>
+  <wpt lat="41.223490" lon="-124.093340"><name>Dry Lagoon Beach Access</name></wpt>
+  <wpt lat="40.577180" lon="-124.262900"><name>Ferndale - Food, Gas, Lodging</name></wpt>
+  <wpt lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></wpt>
+  <wpt lat="41.036570" lon="-124.117690"><name>Houda Point Beach</name></wpt>
+  <wpt lat="40.640280" lon="-124.224900"><name>Loleta - Food</name></wpt>
+  <wpt lat="41.148120" lon="-123.893300"><name>Lyons Ranch Trailhead</name></wpt>
+  <wpt lat="40.929810" lon="-124.133650"><name>Mad River Park & Beach</name></wpt>
+  <wpt lat="40.942000" lon="-124.100970"><name>McKinleyville - Food, Gas, Lodging</name></wpt>
+  <wpt lat="41.029490" lon="-124.109320"><name>Moonstone Beach</name></wpt>
+  <wpt lat="41.284970" lon="-124.073490"><name>Orick - Food & Gas</name></wpt>
+  <wpt lat="41.292540" lon="-124.088560"><name>Orick Beach</name></wpt>
+  <wpt lat="41.257930" lon="-123.988800"><name>Redwood Creek Overlook</name></wpt>
+  <wpt lat="40.820020" lon="-124.181670"><name>Samoa Cookhouse & Museum</name></wpt>
+  <wpt lat="41.151430" lon="-123.882740"><name>Schoolhouse Peak Lookout</name></wpt>
+  <wpt lat="40.753840" lon="-124.233140"><name>South Jetty</name></wpt>
+  <wpt lat="41.258330" lon="-124.096040"><name>Stone Lagoon Beach Access</name></wpt>
+  <wpt lat="41.232710" lon="-124.083560"><name>Stone Lagoon Visitor Center</name></wpt>
+  <wpt lat="41.133480" lon="-124.153510"><name>Sue-meg SP & CG</name></wpt>
+  <wpt lat="40.696920" lon="-124.275880"><name>Table Bluff Beach</name></wpt>
+  <wpt lat="41.040050" lon="-124.119610"><name>Tepona Point Viewpoint</name></wpt>
+  <wpt lat="41.061660" lon="-124.140210"><name>Trinidad - Food, Gas, Lodging</name></wpt>
+  <wpt lat="41.057500" lon="-124.149000"><name>Trinidad State Beach</name></wpt>
+  <wpt lat="40.870880" lon="-124.134960"><name>Water Buffalo Ranch</name></wpt>
+  <rte>
+    <name>LCX4 - Blue Lake to Ferndale</name>
+    <rtept lat="40.889080" lon="-123.866560"><name>Bald Mtn Couch</name></rtept>
+    <rtept lat="41.156280" lon="-124.127300"><name>Big Lagoon Beach & CG</name></rtept>
+    <rtept lat="40.884360" lon="-123.998120"><name>Blue Lake Casino - Food, Gas, Lodging</name></rtept>
+    <rtept lat="40.995090" lon="-124.114250"><name>Clam Beach CG</name></rtept>
+    <rtept lat="41.006550" lon="-124.111950"><name>Clam Beach Park & Beach</name></rtept>
+    <rtept lat="41.205470" lon="-123.950390"><name>Dolason Prairie Picnic Area</name></rtept>
+    <rtept lat="41.223490" lon="-124.093340"><name>Dry Lagoon Beach Access</name></rtept>
+    <rtept lat="40.577180" lon="-124.262900"><name>Ferndale - Food, Gas, Lodging</name></rtept>
+    <rtept lat="40.613830" lon="-124.203180"><name>Historic Fernbridge</name></rtept>
+    <rtept lat="41.036570" lon="-124.117690"><name>Houda Point Beach</name></rtept>
+    <rtept lat="40.640280" lon="-124.224900"><name>Loleta - Food</name></rtept>
+    <rtept lat="41.148120" lon="-123.893300"><name>Lyons Ranch Trailhead</name></rtept>
+    <rtept lat="40.929810" lon="-124.133650"><name>Mad River Park & Beach</name></rtept>
+    <rtept lat="40.942000" lon="-124.100970"><name>McKinleyville - Food, Gas, Lodging</name></rtept>
+    <rtept lat="41.029490" lon="-124.109320"><name>Moonstone Beach</name></rtept>
+    <rtept lat="41.284970" lon="-124.073490"><name>Orick - Food & Gas</name></rtept>
+    <rtept lat="41.292540" lon="-124.088560"><name>Orick Beach</name></rtept>
+    <rtept lat="41.257930" lon="-123.988800"><name>Redwood Creek Overlook</name></rtept>
+    <rtept lat="40.820020" lon="-124.181670"><name>Samoa Cookhouse & Museum</name></rtept>
+    <rtept lat="41.151430" lon="-123.882740"><name>Schoolhouse Peak Lookout</name></rtept>
+    <rtept lat="40.753840" lon="-124.233140"><name>South Jetty</name></rtept>
+    <rtept lat="41.258330" lon="-124.096040"><name>Stone Lagoon Beach Access</name></rtept>
+    <rtept lat="41.232710" lon="-124.083560"><name>Stone Lagoon Visitor Center</name></rtept>
+    <rtept lat="41.133480" lon="-124.153510"><name>Sue-meg SP & CG</name></rtept>
+    <rtept lat="40.696920" lon="-124.275880"><name>Table Bluff Beach</name></rtept>
+    <rtept lat="41.040050" lon="-124.119610"><name>Tepona Point Viewpoint</name></rtept>
+    <rtept lat="41.061660" lon="-124.140210"><name>Trinidad - Food, Gas, Lodging</name></rtept>
+    <rtept lat="41.057500" lon="-124.149000"><name>Trinidad State Beach</name></rtept>
+    <rtept lat="40.870880" lon="-124.134960"><name>Water Buffalo Ranch</name></rtept>
+  </rte>
+</gpx>

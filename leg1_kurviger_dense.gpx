@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX1 - Fort Bragg to Shelter Cove</name><time>2026-05-31T21:06:23Z</time></metadata>
+  <wpt lat="39.441830" lon="-123.805980"><name>Fort</name></wpt>
+  <wpt lat="39.776670" lon="-123.835210"></wpt>
+  <wpt lat="39.855570" lon="-123.860520"></wpt>
+  <wpt lat="39.919790" lon="-123.900170"></wpt>
+  <wpt lat="39.968550" lon="-123.965740"></wpt>
+  <wpt lat="40.036780" lon="-124.052370"><name>Shelter</name></wpt>
+  <rte>
+    <name>LCX1 - Fort Bragg to Shelter Cove</name>
+    <rtept lat="39.441830" lon="-123.805980"><name>Fort</name></rtept>
+    <rtept lat="39.776670" lon="-123.835210"></rtept>
+    <rtept lat="39.855570" lon="-123.860520"></rtept>
+    <rtept lat="39.919790" lon="-123.900170"></rtept>
+    <rtept lat="39.968550" lon="-123.965740"></rtept>
+    <rtept lat="40.036780" lon="-124.052370"><name>Shelter</name></rtept>
+  </rte>
+</gpx>

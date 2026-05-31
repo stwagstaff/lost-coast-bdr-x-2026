@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX4 - Blue Lake to Ferndale</name><time>2026-05-31T21:06:23Z</time></metadata>
+  <wpt lat="40.884460" lon="-123.997940"><name>Blue</name></wpt>
+  <wpt lat="40.991210" lon="-123.777300"></wpt>
+  <wpt lat="41.086410" lon="-123.763680"></wpt>
+  <wpt lat="41.154680" lon="-123.814050"></wpt>
+  <wpt lat="41.108390" lon="-124.159860"></wpt>
+  <wpt lat="40.577150" lon="-124.263060"><name>Ferndale</name></wpt>
+  <rte>
+    <name>LCX4 - Blue Lake to Ferndale</name>
+    <rtept lat="40.884460" lon="-123.997940"><name>Blue</name></rtept>
+    <rtept lat="40.991210" lon="-123.777300"></rtept>
+    <rtept lat="41.086410" lon="-123.763680"></rtept>
+    <rtept lat="41.154680" lon="-123.814050"></rtept>
+    <rtept lat="41.108390" lon="-124.159860"></rtept>
+    <rtept lat="40.577150" lon="-124.263060"><name>Ferndale</name></rtept>
+  </rte>
+</gpx>
