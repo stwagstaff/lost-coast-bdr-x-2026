@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>LCX4 Extension — Table Bluff Beach</name><time>2026-05-31T21:09:00Z</time></metadata>
+  <trk>
+    <name>LCX4 Extension — Table Bluff Beach</name>
+    <trkseg>
+    <trkpt lat="40.686920" lon="-124.254750"></trkpt>
+    <trkpt lat="40.686880" lon="-124.259230"></trkpt>
+    <trkpt lat="40.686860" lon="-124.260950"></trkpt>
+    <trkpt lat="40.686840" lon="-124.263010"></trkpt>
+    <trkpt lat="40.686860" lon="-124.264380"></trkpt>
+    <trkpt lat="40.687010" lon="-124.264830"></trkpt>
+    <trkpt lat="40.687910" lon="-124.265910"></trkpt>
+    <trkpt lat="40.690290" lon="-124.270610"></trkpt>
+    <trkpt lat="40.691170" lon="-124.271460"></trkpt>
+    <trkpt lat="40.691340" lon="-124.271740"></trkpt>
+    <trkpt lat="40.692010" lon="-124.273310"></trkpt>
+    <trkpt lat="40.693360" lon="-124.272820"></trkpt>
+    <trkpt lat="40.693510" lon="-124.272820"></trkpt>
+    <trkpt lat="40.693550" lon="-124.272840"></trkpt>
+    <trkpt lat="40.693700" lon="-124.273070"></trkpt>
+    <trkpt lat="40.694000" lon="-124.273650"></trkpt>
+    <trkpt lat="40.694110" lon="-124.273740"></trkpt>
+    <trkpt lat="40.694650" lon="-124.273740"></trkpt>
+    <trkpt lat="40.696110" lon="-124.273720"></trkpt>
+    <trkpt lat="40.696660" lon="-124.273720"></trkpt>
+    <trkpt lat="40.696960" lon="-124.273650"></trkpt>
+    <trkpt lat="40.697070" lon="-124.273590"></trkpt>
+    <trkpt lat="40.697310" lon="-124.273070"></trkpt>
+    <trkpt lat="40.697370" lon="-124.272730"></trkpt>
+    <trkpt lat="40.697410" lon="-124.271740"></trkpt>
+    <trkpt lat="40.697350" lon="-124.271310"></trkpt>
+    <trkpt lat="40.696960" lon="-124.269770"></trkpt>
+    <trkpt lat="40.697050" lon="-124.269620"></trkpt>
+    <trkpt lat="40.697260" lon="-124.269620"></trkpt>
+    <trkpt lat="40.697460" lon="-124.269940"></trkpt>
+    <trkpt lat="40.697740" lon="-124.271120"></trkpt>
+    <trkpt lat="40.697780" lon="-124.271510"></trkpt>
+    <trkpt lat="40.697870" lon="-124.272340"></trkpt>
+    <trkpt lat="40.697820" lon="-124.272730"></trkpt>
+    <trkpt lat="40.697630" lon="-124.274040"></trkpt>
+    <trkpt lat="40.697180" lon="-124.275130"></trkpt>
+    <trkpt lat="40.697200" lon="-124.275310"></trkpt>
+    <trkpt lat="40.697140" lon="-124.275390"></trkpt>
+    <trkpt lat="40.696900" lon="-124.275540"></trkpt>
+    <trkpt lat="40.697730" lon="-124.273830"></trkpt>
+    <trkpt lat="40.697840" lon="-124.272420"></trkpt>
+    <trkpt lat="40.697730" lon="-124.271190"></trkpt>
+    <trkpt lat="40.697460" lon="-124.269900"></trkpt>
+    <trkpt lat="40.697250" lon="-124.269610"></trkpt>
+    <trkpt lat="40.697050" lon="-124.269720"></trkpt>
+    <trkpt lat="40.697330" lon="-124.271270"></trkpt>
+    <trkpt lat="40.697310" lon="-124.272840"></trkpt>
+    <trkpt lat="40.697000" lon="-124.273620"></trkpt>
+    <trkpt lat="40.696570" lon="-124.273670"></trkpt>
+    <trkpt lat="40.694090" lon="-124.273730"></trkpt>
+    <trkpt lat="40.693520" lon="-124.272790"></trkpt>
+    <trkpt lat="40.692010" lon="-124.273410"></trkpt>
+    <trkpt lat="40.691270" lon="-124.271510"></trkpt>
+    <trkpt lat="40.690320" lon="-124.270620"></trkpt>
+    <trkpt lat="40.687850" lon="-124.265890"></trkpt>
+    <trkpt lat="40.687100" lon="-124.264870"></trkpt>
+    <trkpt lat="40.686860" lon="-124.264340"></trkpt>
+    <trkpt lat="40.686910" lon="-124.254740"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
